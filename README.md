@@ -10,6 +10,10 @@ This page contains resources for the seminar on imprecise probabilistic machine 
 
 - TBA
 
+## Imprecise Probabilistic Forecast
+
+- TBA
+
 ## Additional Resources
 
 - TBA
