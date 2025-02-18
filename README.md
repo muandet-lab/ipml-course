@@ -1,2 +1,2 @@
-# ipml-uds-2025
+# Imprecise Probabilistic Machine Learning (IPML)
 A seminar on imprecise probabilistic machine learning 
