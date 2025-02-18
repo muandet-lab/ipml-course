@@ -1,2 +1,7 @@
 # Imprecise Probabilistic Machine Learning (IPML)
-A seminar on imprecise probabilistic machine learning 
+
+This page contains resources for the seminar on imprecise probabilistic machine learning (IPML).
+
+## Interpretations of Probability
+
+
