@@ -6,6 +6,10 @@ This page contains resources for the seminar on imprecise probabilistic machine 
 
 - TBA
 
+## Uncertainty Quantification
+
+- TBA
+
 ## Conformal Prediction
 
 - TBA
