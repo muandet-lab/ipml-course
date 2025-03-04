@@ -22,9 +22,7 @@ This page contains resources for the seminar on imprecise probabilistic machine 
 ## Imprecise Probabilistic Forecast
 
 - Fröhlich, Christian, and Robert C. Williamson. "Scoring rules and calibration for imprecise probabilities." arXiv preprint arXiv:2410.23001 (2024).
-
 - Konek, Jason. "IP scoring rules: foundations and applications." International Symposium on Imprecise Probabilities: Theories and Applications. PMLR, 2019.
-
 - Konek, Jason. "Evaluating imprecise forecasts." International Symposium on Imprecise Probability: Theories and Applications. PMLR, 2023.
 
 ## Causality
