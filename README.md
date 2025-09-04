@@ -19,3 +19,26 @@ This course is divided into two main parts.
 
 **Part 2** explores the practical applications of imprecise probability in machine learning. Topics covered will include its use in classification, regression, conformal prediction, and uncertainty quantification, as well as its relevance to reinforcement learning, causal inference, and foundation models. Students will also learn to implement fundamental imprecise probability algorithms for these diverse applications. 
 A course project, detailed below, allows students to further tailor the material to their specific interests.
+
+### Part I: Foundation of Imprecise Probability
+
+- Lecture 1: Introduction
+- Lecture 2: Overview of Imprecise Probability 
+- Lecture 3: Possibility Theory 
+- Lecture 4: Belief Function Theory
+- Lecture 5: Convex Sets of Probabilities 
+- Lecture 6: Decision Making under Imprecision
+
+### Part II:  Imprecise Probability in Machine Learning
+
+- Lecture 7: Imprecise Classification and Regression
+- Lecture 8: Uncertainty Quantification
+- Lecture 9: Conformal Prediction
+- Lecture 10: Deep Learning, Foundation Models, LLM, GenAI
+- Lecture 11: Fairness, Privacy, Ethics, Safety, etc
+- Lecture 12: Project presentation
+- Lecture 13: Project presentation
+
+## Course Project
+
+The course project gives students a chance to apply what they've learned to a problem that interests them. After completing Part I, students will form groups of up to two people and choose a real-world problem to solve. Each group will present the final project to the class at the end of Part II.
