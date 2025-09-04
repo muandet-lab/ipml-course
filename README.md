@@ -23,6 +23,9 @@ A course project, detailed below, allows students to further tailor the material
 ### Part I: Foundation of Imprecise Probability
 
 - Lecture 1: Introduction
+
+This lecture introduces the fundamentals of statistical machine learning, emphasising the ultimate goal of learning from data. We will explore how uncertainty arises in machine learning—through data, models, and environments—and why managing it is central to effective learning. Core paradigms such as classification, regression, unsupervised, semi-supervised, self-supervised, and reinforcement learning will be discussed alongside Bayesian methods and generative modeling. Finally, we examine the limitations of current approaches in terms of generalization, robustness, trustworthiness, and safety, and show how these challenges are deeply rooted in probability theory.
+
 - Lecture 2: Overview of Imprecise Probability 
 - Lecture 3: Possibility Theory 
 - Lecture 4: Belief Function Theory
