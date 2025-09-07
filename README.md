@@ -47,3 +47,7 @@ A course project, detailed below, allows students to further tailor the material
 ## Course Project
 
 The course project gives students a chance to apply what they've learned to a problem that interests them. After completing Part I, students will form groups of up to two people and choose a real-world problem to solve. Each group will present the final project to the class at the end of Part II.
+
+## Useful Resources
+
+TBA
