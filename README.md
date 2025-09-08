@@ -37,6 +37,9 @@ A course project, detailed below, allows students to further tailor the material
 ### Part II:  Imprecise Probability in Machine Learning
 
 - Lecture 7: Imprecise Classification and Regression
+
+In this lecture, we explore how imprecise probability can improve classification and regression in machine learning. We discuss why standard models often fall short—showing overconfidence, vulnerability to adversarial examples, and lack of robustness—and how imprecise probability offers a principled way to address these issues. Finally, we look at concrete examples of machine learning models that have been extended with imprecise probability to make their predictions more reliable.
+
 - Lecture 8: Uncertainty Quantification
 - Lecture 9: Conformal Prediction
 - Lecture 10: Deep Learning, Foundation Models, LLM, GenAI
