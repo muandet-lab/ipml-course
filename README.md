@@ -36,16 +36,18 @@ A course project, detailed below, allows students to further tailor the material
 
 ### Part II:  Imprecise Probability in Machine Learning
 
-- Lecture 7: Imprecise Classification and Regression
+- **Lecture 7: Imprecise Classification and Regression** explores how imprecise probability can improve classification and regression in machine learning. We discuss why standard models often fall short—showing overconfidence, vulnerability to adversarial examples, and lack of robustness—and how imprecise probability offers a principled way to address these issues. Finally, we look at concrete examples of machine learning models that have been extended with imprecise probability to make their predictions more reliable.
 
-In this lecture, we explore how imprecise probability can improve classification and regression in machine learning. We discuss why standard models often fall short—showing overconfidence, vulnerability to adversarial examples, and lack of robustness—and how imprecise probability offers a principled way to address these issues. Finally, we look at concrete examples of machine learning models that have been extended with imprecise probability to make their predictions more reliable.
+- **Lecture 8: Uncertainty Quantification** introduces uncertainty quantification in machine learning. We discuss why it matters, how to distinguish and measure different types of uncertainty (aleatoric, epistemic, and total), and what properties good measures should have. We then examine common approaches, their limitations—especially in capturing epistemic uncertainty—and the challenges of building a universal framework. Finally, we look at practical applications of uncertainty quantification in modern ML.
+  
+- **Lecture 9: Conformal Prediction and Calibration** introduces conformal prediction, a framework for distribution-free uncertainty quantification that works with almost any machine learning model. We cover the basics of the method, its connections to calibration and imprecise probability, and how these ideas are used to improve the trustworthiness of modern ML systems.
+  
+- **Lecture 10: Deep Learning, Foundation Models, LLM, GenAI** explores how imprecise probability can be applied to modern machine learning, including deep learning, foundation models, large language models, fine-tuning, and generative AI. We discuss its potential to improve reliability and robustness in these areas, as well as the key challenges of adopting it in large-scale applications.
+  
+- **Lecture 11: Fairness, Privacy, Ethics, Safety, etc** asks whether imprecise probability can help address key societal concerns at the intersection of AI and society, such as fairness, privacy, ethics, and safety. We will explore important use cases that demonstrate its potential benefits in tackling these challenges.
 
-- Lecture 8: Uncertainty Quantification
-- Lecture 9: Conformal Prediction
-- Lecture 10: Deep Learning, Foundation Models, LLM, GenAI
-- Lecture 11: Fairness, Privacy, Ethics, Safety, etc
-- Lecture 12: Project presentation
-- Lecture 13: Project presentation
+- **Lecture 12: Project presentation**
+- **Lecture 13: Project presentation**
 
 ## Course Project
 
