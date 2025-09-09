@@ -63,7 +63,7 @@ The course project gives students a chance to apply what they've learned to a pr
 
 ### Books
 
-- TBA
+- Statistical Reasoning with Imprecise Probabilities (1990) by Peter Walley
 
 ### Articles
 
