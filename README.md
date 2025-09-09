@@ -61,7 +61,7 @@ The course project gives students a chance to apply what they've learned to a pr
 
 ### Articles
 
-- TBA
+- [Imprecise Probability](https://plato.stanford.edu/entries/imprecise-probabilities/), Stanford Encyclopedia of Philosophy
 
 ### Research Papers
 
