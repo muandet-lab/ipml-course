@@ -55,4 +55,8 @@ The course project gives students a chance to apply what they've learned to a pr
 
 ## Useful Resources
 
-TBA
+### Books
+
+### Articles
+
+### Research Papers
