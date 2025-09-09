@@ -64,11 +64,19 @@ The course project gives students a chance to apply what they've learned to a pr
 ### Books
 
 - Statistical Reasoning with Imprecise Probabilities (1990) by Peter Walley
+- Introduction to Imprecise Probabilities (2014) by Thomas Augustin, Frank P.A. Coolen, Gert de Cooman, and Matthias C. M. Troffaes
+- Lower Previsions (2014) by Matthias C. M. Troffaes and Gert de Cooman
+- Inferential Models: Reasoning with Uncertainty (2016) by Ryan Martin and Chuanhai Liu
+- The Geometry of Uncertainty: The Geometry of Imprecise Probabilities (2021) by Fabio Cuzzolin
 
 ### Articles
 
 - [Imprecise Probability](https://plato.stanford.edu/entries/imprecise-probabilities/), Stanford Encyclopedia of Philosophy
 
 ### Research Papers
+
+- TBA
+
+### Related Courses
 
 - TBA
