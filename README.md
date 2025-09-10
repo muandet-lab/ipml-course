@@ -63,7 +63,7 @@ The course project gives students a chance to apply what they've learned to a pr
 
 - Lecture: Friday, 10 a.m. to 12 p.m., Room G-228
 - Exercise: Friday, 12 p.m. to 2 p.m., Room G-228
-- Location: Room G-228 (in person) and on Zoom. 
+- Location: Room G-228 (in person) and virtually on Zoom. 
 - Exam dates:
   + Wednesday, March 18, 2026, 1:30–3:30 p.m. in D-220 (Stellingen)
   + Thursday, March 12, 2026, 9:30-11:30 a.m. in D-220 (Stellingen)
