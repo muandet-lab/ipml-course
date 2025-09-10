@@ -59,6 +59,15 @@ A course project, detailed below, allows students to further tailor the material
 
 The course project gives students a chance to apply what they've learned to a problem that interests them. After completing Part I, students will form groups of up to two people and choose a real-world problem to solve. Each group will present the final project to the class at the end of Part II.
 
+## Logistic
+
+- Lecture: Friday, 10 a.m. to 12 p.m., room G-228
+- Exercise: Friday, 12 p.m. to 2 p.m., room G-228
+- Location: Room G-228 in person and 
+- Exam dates:
+  -- Wednesday, March 18, 2026, 1:30–3:30 p.m. in D-220
+  -- Thursday, March 12, 2026, 9:30-11:30 a.m., D-220 (Stellingen)
+
 ## Useful Resources
 
 ### Books
