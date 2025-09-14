@@ -88,4 +88,10 @@ The course project gives students a chance to apply what they've learned to a pr
 
 ### Related Courses
 
-- TBA
+- [ST790: Imprecise-Probabilistic Foundations of Statistics & Data Science](https://wordpress-courses2223.wolfware.ncsu.edu/st-790-001-fall-2022/) by [Ryan Martin](https://www4.stat.ncsu.edu/~rgmarti3/)
+
+### Scientific events
+
+- [The Society for Imprecise Probabilities: Theories and Applications (SIPTA)](https://sipta.org/)
+- [The 1st Workshop on Epistemic Intelligence in Machine Learning (EIML)](https://sites.google.com/view/eiml-eurips2025/) at EurIPS 2025
+
