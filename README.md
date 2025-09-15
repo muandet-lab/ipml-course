@@ -159,5 +159,6 @@ The course project gives students a chance to apply what they've learned to a pr
 ### Scientific events
 
 - [The Society for Imprecise Probabilities: Theories and Applications (SIPTA)](https://sipta.org/)
+- [SIPTA School](https://sipta.org/events/sipta-school/)
 - [The 1st Workshop on Epistemic Intelligence in Machine Learning (EIML)](https://sites.google.com/view/eiml-eurips2025/) at [EurIPS 2025](https://eurips.cc/)
 
