@@ -1,4 +1,4 @@
-# IPML: Imprecise Probabilistic Machine Learning
+# Imprecise Probabilistic Machine Learning
 
 <br>
 
