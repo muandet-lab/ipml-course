@@ -100,6 +100,9 @@ The course project gives students a chance to apply what they've learned to a pr
 - [Possibilistic Instance-based Learning](https://www.sciencedirect.com/science/article/pii/S0004370203000195), Artificial Intelligence, 2003
 - [Reliable Classification: Learning Classifiers that Distinguish Aleatoric and Epistemic Uncertainty](https://www.mathematik.uni-marburg.de/~eyke/publications/reliable-classification.pdf), Information Sciences, 2014
 - [Reliable Multi-class Classification based on Pairwise Epistemic and Aleatoric Uncertainty](https://www.ijcai.org/proceedings/2018/0706.pdf), IJCAI, 2018
+- [Weakly-Supervised Contrastive Learning for Imprecise Class Labels](https://arxiv.org/abs/2505.22028), ICML, 2025
+- [Imprecise Label Learning: A Unified Framework for Learning with Various Imprecise Label Configurations](https://arxiv.org/pdf/2305.12715), NeurIPS 2024
+- [Credal Wrapper of Model Averaging for Uncertainty Estimation in Classification](https://arxiv.org/abs/2405.15047), ICLR, 2025
 
 #### Conformal Prediction
 - [A Tutorial on Conformal Prediction](https://jmlr.csail.mit.edu/papers/volume9/shafer08a/shafer08a.pdf), JMLR, 2008
@@ -117,6 +120,7 @@ The course project gives students a chance to apply what they've learned to a pr
 - [Pitfalls of Epistemic Uncertainty Quantification through Loss Minimisation](https://arxiv.org/pdf/2203.06102), NeurIPS, 2022
 - [Quantification of Credal Uncertainty in Machine Learning: A Critical Analysis and Empirical Comparison](https://proceedings.mlr.press/v180/hullermeier22a/hullermeier22a.pdf), UAI, 2022
 - [Uncertainty Measures: A Critical Survey](https://www.sciencedirect.com/science/article/abs/pii/S1566253524003877), Information Fusion, 2024
+- [Second-order Uncertainty Quantification: A Distance-based Approach](https://arxiv.org/abs/2312.00995), ICML, 2022
 
 #### Imprecise Probabilistic Forecast and Calibration
 - [IP Scoring Rules: Foundations and Applications](https://proceedings.mlr.press/v103/konek19a.html), ISIPTA, 2019
@@ -139,11 +143,13 @@ The course project gives students a chance to apply what they've learned to a pr
 - [Credal Self-Supervised Learning](https://arxiv.org/pdf/2106.11853), NeurIPS, 2021
 - [Imprecise Bayesian optimization](https://www.sciencedirect.com/science/article/pii/S0950705124008207), Knowledge-Based Systems, 2024
 - [Random-Set Large Language Models](https://arxiv.org/abs/2504.18085), ArXiv 2025
+- [Abductive Reasoning in Logical Credal Networks](https://proceedings.neurips.cc/paper_files/paper/2024/file/7d7020e945935214d756cd9a65c43170-Paper-Conference.pdf), NeurIPS, 2024
+- [Credal Deep Ensembles for Uncertainty Quantification](https://proceedings.neurips.cc/paper_files/paper/2024/hash/911fc798523e7d4c2e9587129fcf88fc-Abstract-Conference.html), NeurIPS, 2024
 
 #### Use Cases of Imprecise Probability in Fairness, Privacy, Ethics, Safety, etc
 - [Differential privacy: general inferential limits via intervals of measures](https://proceedings.mlr.press/v215/bailie23a.html), ISIPTA, 2023
 - [Statistical Comparisons of Classifiers by Generalized Stochastic Dominance](https://www.jmlr.org/papers/volume24/22-0902/22-0902.pdf), JMLR, 2023
-- [Credal Two-sample Tests of Epistemic Ignorance](https://arxiv.org/pdf/2410.12921), AISTATS 2025
+- [Credal Two-sample Tests of Epistemic Uncertainty](https://arxiv.org/pdf/2410.12921), AISTATS 2025
 - [Domain Generalisation via Imprecise Learning](https://arxiv.org/abs/2404.04669), ICML 2024
 
 ### Related Courses
