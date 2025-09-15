@@ -82,6 +82,7 @@ The course project gives students a chance to apply what they've learned to a pr
 
 - [Imprecise Probability](https://plato.stanford.edu/entries/imprecise-probabilities/), The Stanford Encyclopedia of Philosophy, 2019
 - [Interpretations of Probability](https://plato.stanford.edu/entries/probability-interpret/), The Stanford Encyclopedia of Philosophy, 2023
+- [Epistemic Artificial Intelligence is Essential for Machine Learning Models to Truly ‘Know When They Do Not Know’](https://arxiv.org/pdf/2505.04950)
 
 ### Research Papers
 
@@ -89,9 +90,57 @@ The course project gives students a chance to apply what they've learned to a pr
 
 - [An introduction to the imprecise Dirichlet model for multinomial data](https://www.sciencedirect.com/science/article/pii/S0888613X04001069), International Journal of Approximate Reasoning, 2005
 - [Towards a strictly frequentist theory of imprecise probability](https://proceedings.mlr.press/v215/frohlich23a.html), ISIPTA 2023
-- [Epistemic Artificial Intelligence is Essential for Machine Learning Models to Truly ‘Know When They Do Not Know’](https://arxiv.org/pdf/2505.04950)
 - [Credal Learning Theory](https://arxiv.org/pdf/2402.00957), NeurIPS 2024
-- 
+
+#### Imprecise Classification and Regression
+- [Learning Sets of Probabilities Through Ensemble Methods](https://hal.science/hal-04371410/file/Learning_Sets_of_Probabilities_Through_Ensemble_Methods-2.pdf), ECSQARU 2023
+- [Possibilistic Classification by Support Vector Networks](https://www.sciencedirect.com/science/article/abs/pii/S0893608022000405?via%3Dihub), Neural Networks, 2022
+- [Neural Network Model for Imprecise Regression with Interval Dependent Variables](https://arxiv.org/pdf/2206.02467), Neural Networks, 2023
+- [Possibilistic Instance-based Learning](https://www.sciencedirect.com/science/article/pii/S0004370203000195), Artificial Intelligence, 2003
+- [Reliable Classification: Learning Classifiers that Distinguish Aleatoric and Epistemic Uncertainty](https://www.mathematik.uni-marburg.de/~eyke/publications/reliable-classification.pdf), Information Sciences, 2014
+- [Reliable Multi-class Classification based on Pairwise Epistemic and Aleatoric Uncertainty](https://www.ijcai.org/proceedings/2018/0706.pdf), IJCAI, 2018
+
+#### Conformal Prediction
+- [Conformalized Credal Set Predictors](https://arxiv.org/pdf/2402.10723), NeurIPS, 2024
+- [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/pdf/2107.07511), ArXiv, 2022
+- [Conformal Prediction Regions are Imprecise Highest Density Regions](https://arxiv.org/pdf/2502.06331), ArXiv, 2025
+- [Conformal Prediction with Partially Labeled Data](https://proceedings.mlr.press/v204/javanmardi23a/javanmardi23a.pdf), ArXiv 2023
+- [Learning Calibrated Belief Functions from Conformal Predictions](https://proceedings.mlr.press/v215/martin-bordini23a/martin-bordini23a.pdf), ISIPTA, 2023
+- [Validity, Consonant Plausibility Measures, and Conformal Prediction](https://arxiv.org/pdf/2001.09225), International Journal of Approximate Reasoning, 2022
+
+#### Uncertainty Quantification
+- [Aleatoric and Epistemic Uncertainty in Machine Learning: An Introduction to Concepts and Methods](https://arxiv.org/pdf/1910.09457), Machine Learning, 2021
+- [Is the Volume of a Credal Set a Good Measure for Epistemic Uncertainty?](https://arxiv.org/pdf/2306.09586) UAI, 2023
+- [Pitfalls of Epistemic Uncertainty Quantification through Loss Minimisation](https://arxiv.org/pdf/2203.06102), NeurIPS 2022
+- [Quantification of Credal Uncertainty in Machine Learning: A Critical Analysis and Empirical Comparison](https://proceedings.mlr.press/v180/hullermeier22a/hullermeier22a.pdf), UAI, 2022
+- [Uncertainty Measures: A Critical Survey](https://www.sciencedirect.com/science/article/abs/pii/S1566253524003877), Information Fusion, 2024
+
+#### Imprecise Probabilistic Forecast and Calibration
+- [Evaluating Imprecise Forecasts](https://proceedings.mlr.press/v215/konek23a/konek23a.pdf), ISIPTA, 2023
+- [IP Scoring Rules: Foundations and Applications](https://proceedings.mlr.press/v103/konek19a/konek19a.pdf), ISIPTA, 2019
+- [On Second-Order Scoring Rules for Epistemic Uncertainty Quantification](https://arxiv.org/pdf/2301.12736), ICML 2023
+- [Truthful Elicitation of Imprecise Forecasts](https://arxiv.org/pdf/2503.16395), UAI, 2025
+- [On the Calibration of Probabilistic Classifier Sets](https://proceedings.mlr.press/v206/mortier23a/mortier23a.pdf), AISTATS, 2023
+- [Scoring Rules and Calibration for Imprecise Probabilities](https://arxiv.org/pdf/2410.23001), ArXiv, 2024
+
+#### Decision-Making with Imprecise Probability
+- [Decision Making under Uncertainty using Imprecise Probabilities](https://arxiv.org/pdf/1807.03705), International Journal of Approximate Reasoning, 2007
+- [Archimedean Choice Functions: An Axiomatic Foundation for Imprecise Decision Making](https://arxiv.org/pdf/2002.05196), Information Processing and Management of Uncertainty in Knowledge-Based Systems, 2020
+- [Risk Measures and Upper Probabilities: Coherence and Stratification](https://www.jmlr.org/papers/volume25/22-0641/22-0641.pdf), JMLR 2024
+- [Concepts for Decision Making under Severe Uncertainty with Partial Ordinal and Partial Cardinal Preferences](https://proceedings.mlr.press/v62/jansen17a/jansen17a.pdf), ISIPTA 2017
+
+#### Imprecise Probability in Modern ML (Deep Learning, Foundation Models, LLM, GenAI)
+- [Credal Bayesian Deep Learning](https://arxiv.org/pdf/2302.09656), TMLR, 2024
+- [Aleatoric and Epistemic Uncertainty with Random Forests](https://arxiv.org/pdf/2001.00893), Advances in Intelligent Data Analysis, 2020
+- [Credal Self-Supervised Learning](https://arxiv.org/pdf/2106.11853), NeurIPS, 2021
+- [Imprecise Bayesian optimization](https://www.sciencedirect.com/science/article/pii/S0950705124008207), Knowledge-Based Systems, 2024
+- [Random-Set Large Language Models](https://arxiv.org/abs/2504.18085), ArXiv 2025
+
+#### Use Cases of Imprecise Probability in Fairness, Privacy, Ethics, Safety, etc
+- [Differential privacy: general inferential limits via intervals of measures](https://proceedings.mlr.press/v215/bailie23a.html), ISIPTA 2023
+- [Statistical Comparisons of Classifiers by Generalized Stochastic Dominance](https://www.jmlr.org/papers/volume24/22-0902/22-0902.pdf), JMLR 2023
+- [Credal Two-sample Tests of Epistemic Ignorance](https://arxiv.org/pdf/2410.12921), AISTATS 2025
+- [Domain Generalisation via Imprecise Learning](https://arxiv.org/abs/2404.04669), ICML 2024
 
 ### Related Courses
 
