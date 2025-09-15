@@ -84,7 +84,7 @@ The course project gives students a chance to apply what they've learned to a pr
 
 ### Research Papers
 
-- TBA
+- [Epistemic Artificial Intelligence is Essential for Machine Learning Models to Truly ‘Know When They Do Not Know’](https://arxiv.org/pdf/2505.04950)
 
 ### Related Courses
 
