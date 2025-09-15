@@ -80,11 +80,18 @@ The course project gives students a chance to apply what they've learned to a pr
 
 ### Articles
 
-- [Imprecise Probability](https://plato.stanford.edu/entries/imprecise-probabilities/), Stanford Encyclopedia of Philosophy
+- [Imprecise Probability](https://plato.stanford.edu/entries/imprecise-probabilities/), The Stanford Encyclopedia of Philosophy, 2019
+- [Interpretations of Probability](https://plato.stanford.edu/entries/probability-interpret/), The Stanford Encyclopedia of Philosophy, 2023
 
 ### Research Papers
 
+#### Foundations and Representations of Imprecise Probability
+
+- [An introduction to the imprecise Dirichlet model for multinomial data](https://www.sciencedirect.com/science/article/pii/S0888613X04001069), International Journal of Approximate Reasoning, 2005
+- [Towards a strictly frequentist theory of imprecise probability](https://proceedings.mlr.press/v215/frohlich23a.html), ISIPTA 2023
 - [Epistemic Artificial Intelligence is Essential for Machine Learning Models to Truly ‘Know When They Do Not Know’](https://arxiv.org/pdf/2505.04950)
+- [Credal Learning Theory](https://arxiv.org/pdf/2402.00957), NeurIPS 2024
+- 
 
 ### Related Courses
 
