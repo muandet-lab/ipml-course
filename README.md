@@ -101,6 +101,8 @@ The course project gives students a chance to apply what they've learned to a pr
 - Inferential Models: Reasoning with Uncertainty (2016) by Ryan Martin and Chuanhai Liu
 - The Geometry of Uncertainty: The Geometry of Imprecise Probabilities (2021) by Fabio Cuzzolin
 - Introduction to Uncertainty Quantification (2015) by T. J. Sullivan
+- Probability and Finance: It's Only a Game! (2005) by Glenn Shafer and Vladimir Vovk
+
 
 ### Articles
 
@@ -115,6 +117,7 @@ The course project gives students a chance to apply what they've learned to a pr
 - [An introduction to the imprecise Dirichlet model for multinomial data](https://www.sciencedirect.com/science/article/pii/S0888613X04001069), International Journal of Approximate Reasoning, 2005
 - [Towards a strictly frequentist theory of imprecise probability](https://proceedings.mlr.press/v215/frohlich23a.html), ISIPTA 2023
 - [Credal Learning Theory](https://arxiv.org/pdf/2402.00957), NeurIPS 2024
+- [Game-Theoretic Statistics and Safe Anytime-Valid Inference](https://arxiv.org/abs/2210.01948), Statistical Science, 2023
 
 #### Imprecise Classification and Regression
 - [Learning Sets of Probabilities Through Ensemble Methods](https://hal.science/hal-04371410/file/Learning_Sets_of_Probabilities_Through_Ensemble_Methods-2.pdf), ECSQARU 2023
