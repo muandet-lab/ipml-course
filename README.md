@@ -118,6 +118,7 @@ The course project gives students a chance to apply what they've learned to a pr
 - [Towards a strictly frequentist theory of imprecise probability](https://proceedings.mlr.press/v215/frohlich23a.html), ISIPTA 2023
 - [Credal Learning Theory](https://arxiv.org/pdf/2402.00957), NeurIPS 2024
 - [Game-Theoretic Statistics and Safe Anytime-Valid Inference](https://arxiv.org/abs/2210.01948), Statistical Science, 2023
+- [On Individual Risk](https://arxiv.org/pdf/1406.5540), Synthese, 2017 (Discuss different interpretations of probability)
 
 #### Imprecise Classification and Regression
 - [Learning Sets of Probabilities Through Ensemble Methods](https://hal.science/hal-04371410/file/Learning_Sets_of_Probabilities_Through_Ensemble_Methods-2.pdf), ECSQARU 2023
