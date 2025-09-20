@@ -140,6 +140,10 @@ The course project gives students a chance to apply what they've learned to a pr
 - [Learning Calibrated Belief Functions from Conformal Predictions](https://proceedings.mlr.press/v215/martin-bordini23a/martin-bordini23a.pdf), ISIPTA, 2023
 - [Validity, Consonant Plausibility Measures, and Conformal Prediction](https://arxiv.org/pdf/2001.09225), International Journal of Approximate Reasoning, 2022
 
+#### Causality and Causal Inference
+- [Credal networks](https://www.sciencedirect.com/science/article/pii/S0004370200000291), Artificial Intelligence, 2000
+- [Thirty years of credal networks: Specification, algorithms and complexity](https://www.sciencedirect.com/science/article/pii/S0888613X20302152), International Journal of Approximate Reasoning, 2020
+
 #### Uncertainty Quantification
 - [Aleatoric and Epistemic Uncertainty in Machine Learning: An Introduction to Concepts and Methods](https://arxiv.org/pdf/1910.09457), Machine Learning, 2021
 - [Is the Volume of a Credal Set a Good Measure for Epistemic Uncertainty?](https://arxiv.org/pdf/2306.09586) UAI, 2023
