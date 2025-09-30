@@ -131,6 +131,7 @@ The course project gives students a chance to apply what they've learned to a pr
 - [Weakly-Supervised Contrastive Learning for Imprecise Class Labels](https://arxiv.org/abs/2505.22028), ICML, 2025
 - [Imprecise Label Learning: A Unified Framework for Learning with Various Imprecise Label Configurations](https://arxiv.org/pdf/2305.12715), NeurIPS 2024
 - [Credal Wrapper of Model Averaging for Uncertainty Estimation in Classification](https://arxiv.org/abs/2405.15047), ICLR, 2025
+- [Credal Prediction based on Relative Likelihood](https://arxiv.org/pdf/2505.22332), NeurIPS 2025
 
 #### Conformal Prediction
 - [A Tutorial on Conformal Prediction](https://jmlr.csail.mit.edu/papers/volume9/shafer08a/shafer08a.pdf), JMLR, 2008
@@ -141,6 +142,13 @@ The course project gives students a chance to apply what they've learned to a pr
 - [Conformal Prediction with Partially Labeled Data](https://proceedings.mlr.press/v204/javanmardi23a/javanmardi23a.pdf), ArXiv, 2023
 - [Learning Calibrated Belief Functions from Conformal Predictions](https://proceedings.mlr.press/v215/martin-bordini23a/martin-bordini23a.pdf), ISIPTA, 2023
 - [Validity, Consonant Plausibility Measures, and Conformal Prediction](https://arxiv.org/pdf/2001.09225), International Journal of Approximate Reasoning, 2022
+
+#### Out-of-Distribution Generalisation
+- [Domain Generalisation via Imprecise Learning](https://arxiv.org/abs/2404.04669), ICML 2024
+
+#### Statistical Inference
+- [Credal Two-sample Tests of Epistemic Uncertainty](https://arxiv.org/pdf/2410.12921), AISTATS 2025
+- [Integral Imprecise Probability Metrics](https://arxiv.org/abs/2505.16156), NeurIPS 2025
 
 #### Causality and Causal Inference
 - [Credal networks](https://www.sciencedirect.com/science/article/pii/S0004370200000291), Artificial Intelligence, 2000
@@ -181,8 +189,6 @@ The course project gives students a chance to apply what they've learned to a pr
 #### Use Cases of Imprecise Probability in Fairness, Privacy, Ethics, Safety, etc
 - [Differential privacy: general inferential limits via intervals of measures](https://proceedings.mlr.press/v215/bailie23a.html), ISIPTA, 2023
 - [Statistical Comparisons of Classifiers by Generalized Stochastic Dominance](https://www.jmlr.org/papers/volume24/22-0902/22-0902.pdf), JMLR, 2023
-- [Credal Two-sample Tests of Epistemic Uncertainty](https://arxiv.org/pdf/2410.12921), AISTATS 2025
-- [Domain Generalisation via Imprecise Learning](https://arxiv.org/abs/2404.04669), ICML 2024
 
 ### Related Courses
 
