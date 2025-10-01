@@ -142,6 +142,7 @@ The course project gives students a chance to apply what they've learned to a pr
 - [Conformal Prediction with Partially Labeled Data](https://proceedings.mlr.press/v204/javanmardi23a/javanmardi23a.pdf), ArXiv, 2023
 - [Learning Calibrated Belief Functions from Conformal Predictions](https://proceedings.mlr.press/v215/martin-bordini23a/martin-bordini23a.pdf), ISIPTA, 2023
 - [Validity, Consonant Plausibility Measures, and Conformal Prediction](https://arxiv.org/pdf/2001.09225), International Journal of Approximate Reasoning, 2022
+- [The Joys of Categorical Conformal Prediction](https://arxiv.org/abs/2507.04441), ArXiv 2025
 
 #### Out-of-Distribution Generalisation
 - [Domain Generalisation via Imprecise Learning](https://arxiv.org/abs/2404.04669), ICML 2024
