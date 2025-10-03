@@ -75,8 +75,7 @@ A course project, detailed below, allows students to further tailor the material
 
    <em>Lecture notes: available after the lecture</em>
 
-- **`Lecture 12: Project presentation`**
-- **`Lecture 13: Project presentation`**
+- **`Lecture 12-13: Project presentation`**
 
 ## Course Project
 
