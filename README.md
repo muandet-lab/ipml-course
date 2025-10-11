@@ -155,6 +155,7 @@ The course project gives students a chance to apply what they've learned to a pr
 - [Thirty years of credal networks: Specification, algorithms and complexity](https://www.sciencedirect.com/science/article/pii/S0888613X20302152), International Journal of Approximate Reasoning, 2020
 
 #### Uncertainty Quantification
+- [Quantifying Aleatoric and Epistemic Uncertainty in Machine Learning: Are Conditional Entropy and Mutual Information Appropriate Measures?](https://arxiv.org/abs/2209.03302), UAI, 2023
 - [Aleatoric and Epistemic Uncertainty in Machine Learning: An Introduction to Concepts and Methods](https://arxiv.org/pdf/1910.09457), Machine Learning, 2021
 - [Is the Volume of a Credal Set a Good Measure for Epistemic Uncertainty?](https://arxiv.org/pdf/2306.09586) UAI, 2023
 - [Pitfalls of Epistemic Uncertainty Quantification through Loss Minimisation](https://arxiv.org/pdf/2203.06102), NeurIPS, 2022
