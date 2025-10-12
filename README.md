@@ -149,6 +149,7 @@ The course project gives students a chance to apply what they've learned to a pr
 #### Statistical Inference
 - [Credal Two-sample Tests of Epistemic Uncertainty](https://arxiv.org/pdf/2410.12921), AISTATS 2025
 - [Integral Imprecise Probability Metrics](https://arxiv.org/abs/2505.16156), NeurIPS 2025
+- [False Confidence, Non-additive Beliefs, and Valid Statistical Inference](https://arxiv.org/pdf/1607.05051), IJAR 2019
 
 #### Causality and Causal Inference
 - [Credal networks](https://www.sciencedirect.com/science/article/pii/S0004370200000291), Artificial Intelligence, 2000
