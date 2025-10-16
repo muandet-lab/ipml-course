@@ -28,7 +28,7 @@ A course project, detailed below, allows students to further tailor the material
 
 ### Part I: Foundation of Imprecise Probability
 
-- **<a name="lecture-01"></a>[17 Oct 2025] `Lecture 1: Introduction`** introduces the fundamentals of statistical machine learning, emphasising the ultimate goal of learning from data. We will explore how uncertainty arises in machine learning—through data, models, and environments—and why managing it is central to effective learning. Core paradigms such as classification, regression, unsupervised, semi-supervised, self-supervised, and reinforcement learning will be discussed alongside Bayesian methods and generative modeling. Finally, we examine the limitations of current approaches in terms of generalization, robustness, trustworthiness, and safety, and show how these challenges are deeply rooted in probability theory.
+- **<a name="lecture-01"></a>`Lecture 1: Introduction`** introduces the fundamentals of statistical machine learning, emphasising the ultimate goal of learning from data. We will explore how uncertainty arises in machine learning—through data, models, and environments—and why managing it is central to effective learning. Core paradigms such as classification, regression, unsupervised, semi-supervised, self-supervised, and reinforcement learning will be discussed alongside Bayesian methods and generative modeling. Finally, we examine the limitations of current approaches in terms of generalization, robustness, trustworthiness, and safety, and show how these challenges are deeply rooted in probability theory.
 
    <em>Lecture notes: available after the lecture</em>
 
@@ -92,6 +92,12 @@ The course project gives students a chance to apply what they've learned to a pr
   + Wednesday, March 18, 2026, 1:30–3:30 p.m. in D-220 (Stellingen)
   + Thursday, March 12, 2026, 9:30-11:30 a.m. in D-220 (Stellingen)
 
+## Course Schedule
+
+- [17 Oct 2025] Orientation & Lecture 1
+- [24 Oct 2025] Lecture 2
+- [31 Oct 2025] Lecture 3
+
 ## Useful Resources
 
 ### Books
@@ -103,7 +109,6 @@ The course project gives students a chance to apply what they've learned to a pr
 - The Geometry of Uncertainty: The Geometry of Imprecise Probabilities (2021) by Fabio Cuzzolin
 - Introduction to Uncertainty Quantification (2015) by T. J. Sullivan
 - Probability and Finance: It's Only a Game! (2005) by Glenn Shafer and Vladimir Vovk
-
 
 ### Articles
 
