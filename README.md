@@ -116,6 +116,9 @@ The course project gives students a chance to apply what they've learned to a pr
 - [Interpretations of Probability](https://plato.stanford.edu/entries/probability-interpret/), The Stanford Encyclopedia of Philosophy, 2023
 - [Epistemic Artificial Intelligence is Essential for Machine Learning Models to Truly ‘Know When They Do Not Know’](https://arxiv.org/pdf/2505.04950)
 
+### Master and PhD Theses
+- [Imprecise Probabilities in Machine Learning: Structure and Semantics](https://bibliographie.uni-tuebingen.de/xmlui/bitstream/handle/10900/171001/froehlich_thesis.pdf?sequence=3), Christian Fröhlich, 2025
+
 ### Research Papers
 
 #### Foundations and Representations of Imprecise Probability
