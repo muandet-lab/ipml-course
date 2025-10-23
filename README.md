@@ -95,9 +95,9 @@ The course project gives students a chance to apply what they've learned to a pr
 
 ## Course Schedule
 
-- ~~[17 Oct 2025] Lecture 1 + Orientation~~
-- [24 Oct 2025] Lecture 2
-- [31 Oct 2025] Lecture 3
+- ~~[17 Oct 2025] Lecture 1 + Orientation (in-person)~~
+- [24 Oct 2025] Lecture 2 (online)
+- [31 Oct 2025] Lecture 3 (online)
 
 ## Useful Resources
 
