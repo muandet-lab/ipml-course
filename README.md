@@ -39,7 +39,8 @@ A course project, detailed below, allows students to further tailor the material
    <em>Lecture notes: [Slides](lecture-02/lecture-02-overview-of-imprecise-probability.pdf)</em>
 
    <em>Recommended reading:</em>
-   - XX
+   - [Imprecise Probabilities - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/imprecise-probabilities/)
+   - [Interpretations of Probability - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/probability-interpret/)
   
 - **`Lecture 3: Possibility Theory`** introduces possibility theory, a close relative of probability theory rooted in the theory of belief functions. We will explore how it differs from probability through concepts such as basic belief assignments, possibility and necessity values, and their interpretations. The lecture covers key perspectives on possibility theory—from the theory of surprise to flexible linguistic constraints, comparative possibility, and Baconian probabilities. We will also examine special cases of possibility distributions, their links to imprecise probability models, and how they support reasoning and decision-making. Finally, we discuss when possibility theory is needed, particularly in machine learning, and how to learn possibility models from data or expert input using principles like minimal specificity and conjunctive combination.
 
