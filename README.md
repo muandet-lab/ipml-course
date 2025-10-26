@@ -208,6 +208,7 @@ The course project gives students a chance to apply what they've learned to a pr
 - [Differential privacy: general inferential limits via intervals of measures](https://proceedings.mlr.press/v215/bailie23a.html), ISIPTA, 2023
 - [Statistical Comparisons of Classifiers by Generalized Stochastic Dominance](https://www.jmlr.org/papers/volume24/22-0902/22-0902.pdf), JMLR, 2023
 - [Distributionally Robust Statistical Verification with Imprecise Neural Networks](https://arxiv.org/pdf/2308.14815), HSCC, 2024
+- [Imprecise Probability for Non-commuting Observables](https://iopscience.iop.org/article/10.1088/1367-2630/17/8/085005), New Journal of Physics, 2015
 
 ### Related Courses
 
