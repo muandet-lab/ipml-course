@@ -212,7 +212,10 @@ The course project gives students a chance to apply what they've learned to a pr
 
 ### Related Courses
 
+The teaching materials for this course were partly inspired by those used in the following courses: 
+
 - [ST790: Imprecise-Probabilistic Foundations of Statistics & Data Science](https://wordpress-courses2223.wolfware.ncsu.edu/st-790-001-fall-2022/) by [Ryan Martin](https://www4.stat.ncsu.edu/~rgmarti3/)
+- [Uncertainty Representation and Reasoning (2AMU30)](https://dai.win.tue.nl/courses/2AMU30/) by Erik Quaeghebeur and Vu-Linh Nguyen 
 
 ### Scientific events
 
