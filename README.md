@@ -44,8 +44,7 @@ A course project, detailed below, allows students to further tailor the material
   
 - **`Lecture 3: Possibility Theory`** introduces possibility theory, a close relative of probability theory rooted in the theory of belief functions. We will explore how it differs from probability through concepts such as basic belief assignments, possibility and necessity values, and their interpretations. The lecture covers key perspectives on possibility theory—from the theory of surprise to flexible linguistic constraints, comparative possibility, and Baconian probabilities. We will also examine special cases of possibility distributions, their links to imprecise probability models, and how they support reasoning and decision-making. Finally, we discuss when possibility theory is needed, particularly in machine learning, and how to learn possibility models from data or expert input using principles like minimal specificity and conjunctive combination.
 
-      <em>Lecture notes: [Slides](lecture-03/lecture-03-possibility-theory.pdf)</em>
-
+   <em>Lecture notes: [Slides](lecture-03/lecture-03-possibility-theory.pdf)</em>
   
 - **`Lecture 4: Belief Function Theory`** introduces belief function theory, a framework that generalizes both probability and possibility theories. We will cover the concept of basic belief assignments (and their link to cooperative games), belief and plausibility measures, and methods for computing lower and upper expectations, including Choquet integration. Different interpretations of the theory will be discussed, from Dempster’s multi-valued mappings to Shafer’s theory of evidence and Smets’ transferable belief model. We will also explore Dempster’s rule for information fusion and conditioning, the inverse Möbius transformation, and applications of belief functions in machine learning.
 
@@ -100,9 +99,10 @@ The course project gives students a chance to apply what they've learned to a pr
 
 - ~~[17 Oct 2025] Lecture 1 + Orientation (in-person)~~
 - ~~[24 Oct 2025] Lecture 2 (online)~~
-- [31 Oct 2025] No class (holiday in Germany)
-- [07 Nov 2025] Lecture 3 (online)
-- [14 Nov 2025] Lecture 4 (in-person, hybrid)
+- ~~[31 Oct 2025] No class (holiday in Germany)~~
+- ~~[07 Nov 2025] Lecture 3 (online)~~
+- [14 Nov 2025] Lecture 4 (online)
+- [21 Nov 2025] Lecture 5 (in-person, hybrid)
 
 ## Useful Resources
 
