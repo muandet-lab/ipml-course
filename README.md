@@ -45,7 +45,12 @@ A course project, detailed below, allows students to further tailor the material
 - **`Lecture 3: Possibility Theory`** introduces possibility theory, a close relative of probability theory rooted in the theory of belief functions. We will explore how it differs from probability through concepts such as basic belief assignments, possibility and necessity values, and their interpretations. The lecture covers key perspectives on possibility theory—from the theory of surprise to flexible linguistic constraints, comparative possibility, and Baconian probabilities. We will also examine special cases of possibility distributions, their links to imprecise probability models, and how they support reasoning and decision-making. Finally, we discuss when possibility theory is needed, particularly in machine learning, and how to learn possibility models from data or expert input using principles like minimal specificity and conjunctive combination.
 
    <em>Lecture notes: [Slides](lecture-03/lecture-03-possibility-theory.pdf)</em>
-  
+
+   <em>Recommended reading:</em>
+   - [Possibility Theory and Statistical Reasoning](https://www.irit.fr/~Didier.Dubois/Papers0804/D_CSDA06.pdf) by Didier Dubois (2006)
+   - [Possibility Theory and its Applications: Where Do we Stand ?](https://www.irit.fr/publis/ADRIA/papersDDUBOIS/possibility-Encyclo.pdf) by Didier Dubois and Henri Prade (2014)
+   - [Possibilistic Inferential Models: A Review](https://arxiv.org/pdf/2507.09007) by Ryan Martin (2025)
+
 - **`Lecture 4: Belief Function Theory`** introduces belief function theory, a framework that generalizes both probability and possibility theories. We will cover the concept of basic belief assignments (and their link to cooperative games), belief and plausibility measures, and methods for computing lower and upper expectations, including Choquet integration. Different interpretations of the theory will be discussed, from Dempster’s multi-valued mappings to Shafer’s theory of evidence and Smets’ transferable belief model. We will also explore Dempster’s rule for information fusion and conditioning, the inverse Möbius transformation, and applications of belief functions in machine learning.
 
    <em>Lecture notes: available after the lecture</em>
