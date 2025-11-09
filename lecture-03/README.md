@@ -1,1 +1,1 @@
-## Lecture 3: Possibility Theory
+# Lecture 3: Possibility Theory
