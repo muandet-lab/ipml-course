@@ -129,6 +129,7 @@ The course project gives students a chance to apply what they've learned to a pr
 
 ### Master and PhD Theses
 - [Imprecise Probabilities in Machine Learning: Structure and Semantics](https://bibliographie.uni-tuebingen.de/xmlui/bitstream/handle/10900/171001/froehlich_thesis.pdf?sequence=3), Christian Fröhlich, 2025
+- [Epistemic Deep Learning: Enabling Machine Learning Models to Know When They Do Not Know](https://arxiv.org/abs/2510.22261), Shireen Kudukkil Manchingal, 2025
 
 ### Research Papers
 
