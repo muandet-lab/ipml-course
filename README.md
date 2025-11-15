@@ -214,6 +214,7 @@ The course project gives students a chance to apply what they've learned to a pr
 - [Random-Set Large Language Models](https://arxiv.org/abs/2504.18085), ArXiv 2025
 - [Abductive Reasoning in Logical Credal Networks](https://proceedings.neurips.cc/paper_files/paper/2024/file/7d7020e945935214d756cd9a65c43170-Paper-Conference.pdf), NeurIPS, 2024
 - [Credal Deep Ensembles for Uncertainty Quantification](https://proceedings.neurips.cc/paper_files/paper/2024/hash/911fc798523e7d4c2e9587129fcf88fc-Abstract-Conference.html), NeurIPS, 2024
+- [Evidential Deep Learning to Quantify Classification Uncertainty](https://arxiv.org/pdf/1806.01768), NeurIPS, 2018
 
 #### Use Cases of Imprecise Probability in Fairness, Privacy, Ethics, Safety, etc
 - [Differential privacy: general inferential limits via intervals of measures](https://proceedings.mlr.press/v215/bailie23a.html), ISIPTA, 2023
