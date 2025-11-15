@@ -237,4 +237,4 @@ The teaching materials for this course were partly inspired by those used in the
 
 ### Communities
 - [The Society for Imprecise Probabilities: Theories and Applications (SIPTA)](https://sipta.org/)
-- [The Belief Functions and Applications Society](https://www.bfasociety.org/)
+- [The Belief Functions and Applications Society (BFAS)](https://www.bfasociety.org/)
