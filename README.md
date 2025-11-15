@@ -136,6 +136,11 @@ The course project gives students a chance to apply what they've learned to a pr
 - [Imprecise Probabilities in Machine Learning: Structure and Semantics](https://bibliographie.uni-tuebingen.de/xmlui/bitstream/handle/10900/171001/froehlich_thesis.pdf?sequence=3), Christian Fröhlich, 2025
 - [Epistemic Deep Learning: Enabling Machine Learning Models to Know When They Do Not Know](https://arxiv.org/abs/2510.22261), Shireen Kudukkil Manchingal, 2025
 
+### Review Papers
+- [Possibilistic Inferential Models: A Review](https://arxiv.org/pdf/2507.09007) by Ryan Martin (2025)
+- [Possibility Theory and its Applications: Where Do we Stand ?](https://www.irit.fr/publis/ADRIA/papersDDUBOIS/possibility-Encyclo.pdf) by Didier Dubois and Henri Prade (2014)
+- [Decision-Making with Belief Functions: a Review](https://arxiv.org/pdf/1808.05322) by T. Denœux (2019)
+
 ### Research Papers
 
 #### Foundations and Representations of Imprecise Probability
