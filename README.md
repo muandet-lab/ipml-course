@@ -110,8 +110,9 @@ The course project gives students a chance to apply what they've learned to a pr
 - ~~[24 Oct 2025] Lecture 2 (online)~~
 - ~~[31 Oct 2025] No class (holiday in Germany)~~
 - ~~[07 Nov 2025] Lecture 3 (online)~~
-- [14 Nov 2025] Lecture 4 (online)
+- ~~[14 Nov 2025] Lecture 4 (online)~~
 - [21 Nov 2025] Lecture 5 (in-person, hybrid)
+- [28 Nov 2025] Lecture 6 (online)
 
 ## Useful Resources
 
