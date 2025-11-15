@@ -227,11 +227,14 @@ The course project gives students a chance to apply what they've learned to a pr
 The teaching materials for this course were partly inspired by those used in the following courses: 
 
 - [ST790: Imprecise-Probabilistic Foundations of Statistics & Data Science](https://wordpress-courses2223.wolfware.ncsu.edu/st-790-001-fall-2022/) by [Ryan Martin](https://www4.stat.ncsu.edu/~rgmarti3/)
-- [Uncertainty Representation and Reasoning (2AMU30)](https://dai.win.tue.nl/courses/2AMU30/) by Erik Quaeghebeur and Vu-Linh Nguyen 
+- [Uncertainty Representation and Reasoning (2AMU30)](https://dai.win.tue.nl/courses/2AMU30/) by Erik Quaeghebeur and Vu-Linh Nguyen
+- [Theory of Belief Functions: Application to Machine Learning and Statistical Inference](https://www.hds.utc.fr/~tdenoeux/dokuwiki/en/bf) by Thierry Denoeux
 
-### Scientific events
+### Scientific Events
 
-- [The Society for Imprecise Probabilities: Theories and Applications (SIPTA)](https://sipta.org/)
 - [SIPTA School](https://sipta.org/events/sipta-school/)
 - [The 1st Workshop on Epistemic Intelligence in Machine Learning (EIML)](https://sites.google.com/view/eiml-eurips2025/) at [EurIPS 2025](https://eurips.cc/)
 
+### Communities
+- [The Society for Imprecise Probabilities: Theories and Applications (SIPTA)](https://sipta.org/)
+- [The Belief Functions and Applications Society](https://www.bfasociety.org/)
