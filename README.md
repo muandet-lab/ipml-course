@@ -130,6 +130,7 @@ The course project gives students a chance to apply what they've learned to a pr
 
 - [Imprecise Probability](https://plato.stanford.edu/entries/imprecise-probabilities/), The Stanford Encyclopedia of Philosophy, 2019
 - [Interpretations of Probability](https://plato.stanford.edu/entries/probability-interpret/), The Stanford Encyclopedia of Philosophy, 2023
+- [Introduction to the Theory of Sets of Probabilities](https://www.cs.cmu.edu/~qbayes/Tutorial/quasi-bayesian.html) by Fabio Cozman
 - [Epistemic Artificial Intelligence is Essential for Machine Learning Models to Truly ‘Know When They Do Not Know’](https://arxiv.org/pdf/2505.04950)
 
 ### Master and PhD Theses
