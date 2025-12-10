@@ -70,7 +70,11 @@ A course project, detailed below, allows students to further tailor the material
 
 - **`Lecture 6: Decision Making under Imprecision`** How should we make decisions when probabilities are uncertain or incomplete? This lecture begins with a review of classical decision theory and then explores decision-making with imprecise probabilities, supported by real-world examples. We introduce key imprecise decision rules—such as maximality, E-admissibility, Γ-maximin, and interval dominance—and show how they provide more robust choices under ambiguity. Finally, we connect these ideas to modern machine learning, where imprecise decision-making plays an important role in building safer and more trustworthy AI systems.
 
-   <em>Lecture notes: available after the lecture</em>
+  <em>Lecture notes: [Slides](lecture-06/lecture-06-decision-making-under-imprecision.pdf)</em>
+
+   <em>Recommended reading:</em>
+   - [Decision Making under Uncertainty using Imprecise Probabilities](https://arxiv.org/abs/1807.03705) by Matthias C. M. Troffaes
+   - [SIPTA School 2024: Decisions](https://www.youtube.com/watch?v=3P8eMHtW8Sk) by Matthias C.M. Troffaes
 
 ### Part II:  Imprecise Probability in Machine Learning
 
