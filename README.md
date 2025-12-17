@@ -80,7 +80,12 @@ A course project, detailed below, allows students to further tailor the material
 
 - **`Lecture 7: Imprecise Classification and Regression`** explores how imprecise probability can improve classification and regression in machine learning. We discuss why standard models often fall short—showing overconfidence, vulnerability to adversarial examples, and lack of robustness—and how imprecise probability offers a principled way to address these issues. Finally, we look at concrete examples of machine learning models that have been extended with imprecise probability to make their predictions more reliable.
 
-   <em>Lecture notes: available after the lecture</em>
+   <em>Lecture notes: [Slides](lecture-07/lecture-07-imprecise-classification-and-regression.pdf)</em>
+
+   <em>Recommended reading:</em>
+   - [The Naïve Credal Classifier](https://www.sciencedirect.com/science/article/abs/pii/S0378375801002014) by Marco Zaffalon
+   - [Statistical modeling under partial identification: Distinguishing three types of identification regions in regression analysis with interval data](https://www.sciencedirect.com/science/article/pii/S0888613X14001145) by Georg Schollmeyer and Thomas Augustin (IJAR 2015)
+   - [Neural network model for imprecise regression with interval dependent variables](https://www.sciencedirect.com/science/article/pii/S0893608023000680) by Krasymyr Tretiak, Georg Schollmeyer, and Scott Ferson (Neural Networks 2023)
 
 - **`Lecture 8: Uncertainty Quantification`** introduces uncertainty quantification in machine learning. We discuss why it matters, how to distinguish and measure different types of uncertainty (aleatoric, epistemic, and total), and what properties good measures should have. We then examine common approaches, their limitations—especially in capturing epistemic uncertainty—and the challenges of building a universal framework. Finally, we look at practical applications of uncertainty quantification in modern ML.
 
