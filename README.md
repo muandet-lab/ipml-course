@@ -89,7 +89,12 @@ A course project, detailed below, allows students to further tailor the material
 
 - **`Lecture 8: Uncertainty Quantification`** introduces uncertainty quantification in machine learning. We discuss why it matters, how to distinguish and measure different types of uncertainty (aleatoric, epistemic, and total), and what properties good measures should have. We then examine common approaches, their limitations—especially in capturing epistemic uncertainty—and the challenges of building a universal framework. Finally, we look at practical applications of uncertainty quantification in modern ML.
 
-     <em>Lecture notes: available after the lecture</em>
+   <em>Lecture notes: [Slides](lecture-08/lecture-08-uncertainty-quantification.pdf)</em>
+
+   <em>Recommended reading:</em>
+   - [Aleatoric and epistemic uncertainty in machine learning: an introduction to concepts and methods](https://arxiv.org/abs/1910.09457) by Hüllermeier, E. and Waegeman, W
+   - [Quantification of Credal Uncertainty in Machine Learning: A Critical Analysis and Empirical Comparison](https://proceedings.mlr.press/v180/hullermeier22a.html) by Hüllermeier, E., Destercke, S., and Shaker, M.H.
+   - [Integral Imprecise Probability Metrics](https://arxiv.org/abs/2505.16156) by Siu Lun (Alan) Chau, Michele Caprio, and Krikamol Muandet
 
 - **`Lecture 9: Conformal Prediction and Calibration`** introduces conformal prediction, a framework for distribution-free uncertainty quantification that works with almost any machine learning model. We cover the basics of the method, its connections to calibration and imprecise probability, and how these ideas are used to improve the trustworthiness of modern ML systems.
 
