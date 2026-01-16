@@ -98,9 +98,9 @@ A course project, detailed below, allows students to further tailor the material
 
 - **`Lecture 9: Conformal Prediction and Calibration`** introduces conformal prediction, a framework for distribution-free uncertainty quantification that works with almost any machine learning model. We cover the basics of the method, its connections to calibration and imprecise probability, and how these ideas are used to improve the trustworthiness of modern ML systems.
 
-     <em>Lecture notes: [Slides](lecture-09/lecture-09-conformal-prediction-and-calibration.pdf)</em>
+   <em>Lecture notes: [Slides](lecture-09/lecture-09-conformal-prediction-and-calibration.pdf)</em>
 
-<em>Recommended reading:</em>
+   <em>Recommended reading:</em>
    - [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/abs/2107.07511) by Anastasios N. Angelopoulos and Stephen Bates
    - [A Tutorial on Conformal Prediction](https://jmlr.org/papers/v9/shafer08a.html) by Glenn Shafer and Vladimir Vovk
 
