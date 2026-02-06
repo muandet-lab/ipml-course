@@ -104,16 +104,11 @@ A course project, detailed below, allows students to further tailor the material
    - [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/abs/2107.07511) by Anastasios N. Angelopoulos and Stephen Bates
    - [A Tutorial on Conformal Prediction](https://jmlr.org/papers/v9/shafer08a.html) by Glenn Shafer and Vladimir Vovk
 
+- **`Lecture 10: Lecture 10: Reflections, Open Problems, and Outlook`** explores how imprecise probability can be applied to modern machine learning, including deep learning, foundation models, large language models, fine-tuning, and generative AI. We discuss its potential to improve reliability and robustness in these areas, as well as the key challenges of adopting it in large-scale applications. It also asks whether imprecise probability can help address key societal concerns at the intersection of AI and society, such as fairness, privacy, ethics, and safety. We will explore important use cases that demonstrate its potential benefits in tackling these challenges.
 
-- **`Lecture 10: Deep Learning, Foundation Models, LLM, GenAI`** explores how imprecise probability can be applied to modern machine learning, including deep learning, foundation models, large language models, fine-tuning, and generative AI. We discuss its potential to improve reliability and robustness in these areas, as well as the key challenges of adopting it in large-scale applications.
-
-     <em>Lecture notes: available after the lecture</em>
-
-- **`Lecture 11: Fairness, Privacy, Ethics, Safety, etc`** asks whether imprecise probability can help address key societal concerns at the intersection of AI and society, such as fairness, privacy, ethics, and safety. We will explore important use cases that demonstrate its potential benefits in tackling these challenges.
-
-   <em>Lecture notes: available after the lecture</em>
-
-- **`Lecture 12-13: Project presentation`**
+   <em>Lecture notes: [Slides](lecture-10/lecture-10-reflections-open-problems-and-outlook.pdf)</em>
+   
+- **`Lecture 11: Project and use case presentation`**
 
 ## Course Project
 
