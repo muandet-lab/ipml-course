@@ -208,6 +208,7 @@ The course project gives students a chance to apply what they've learned to a pr
 - [Thirty years of credal networks: Specification, algorithms and complexity](https://www.sciencedirect.com/science/article/pii/S0888613X20302152), International Journal of Approximate Reasoning, 2020
 
 #### Uncertainty Quantification
+- [Quantifying Epistemic Predictive Uncertainty in Conformal Prediction](https://arxiv.org/abs/2602.01667), ArXiv, 2026
 - [Quantifying Aleatoric and Epistemic Uncertainty in Machine Learning: Are Conditional Entropy and Mutual Information Appropriate Measures?](https://arxiv.org/abs/2209.03302), UAI, 2023
 - [Aleatoric and Epistemic Uncertainty in Machine Learning: An Introduction to Concepts and Methods](https://arxiv.org/pdf/1910.09457), Machine Learning, 2021
 - [Is the Volume of a Credal Set a Good Measure for Epistemic Uncertainty?](https://arxiv.org/pdf/2306.09586) UAI, 2023
@@ -230,6 +231,9 @@ The course project gives students a chance to apply what they've learned to a pr
 - [Archimedean Choice Functions: An Axiomatic Foundation for Imprecise Decision Making](https://arxiv.org/pdf/2002.05196), Information Processing and Management of Uncertainty in Knowledge-Based Systems, 2020
 - [Risk Measures and Upper Probabilities: Coherence and Stratification](https://www.jmlr.org/papers/volume25/22-0641/22-0641.pdf), JMLR 2024
 - [Concepts for Decision Making under Severe Uncertainty with Partial Ordinal and Partial Cardinal Preferences](https://proceedings.mlr.press/v62/jansen17a/jansen17a.pdf), ISIPTA 2017
+
+#### Multi-Armed Bandit and Reinforcement Learning
+- [Imprecise Multi-Armed Bandits: Representing Irreducible Uncertainty as a Zero-Sum Game](https://www.jmlr.org/papers/volume26/24-2001/24-2001.pdf), JMLR, 2025
 
 #### Imprecise Probability in Modern ML (Deep Learning, Foundation Models, LLM, GenAI)
 - [Credal Bayesian Deep Learning](https://arxiv.org/pdf/2302.09656), TMLR, 2024
