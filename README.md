@@ -135,4 +135,4 @@ The course project gives students a chance to apply what they've learned to a pr
 
 ## Useful Resources
 
-[References][references.md]
+External resources related to this course can be found at [references.md](references.md)
