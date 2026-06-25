@@ -116,23 +116,17 @@ The course project gives students a chance to apply what they've learned to a pr
 
 ## Logistic
 
-- Lecture: Friday, 10 a.m. to 12 p.m., Room G-228
-- Exercise: Friday, 12 p.m. to 2 p.m., Room G-228
-- Location: Room G-228 (in person) and virtually on **[Zoom](https://cispa-de.zoom-x.de/meeting/register/QvE86yQJR3aL4RqRFAIeHg)** (registration required). The off-line discussion on [Piazza](https://piazza.com/cispa.de/fall2025/ipml101) (**Access Code**: 41xb2bk96h3)
-- Exam dates:
-  + Wednesday, March 18, 2026, 1:30–3:30 p.m. in D-220 (Stellingen)
-  + Thursday, March 12, 2026, 9:30-11:30 a.m. in D-220 (Stellingen)
+- Lecture: Friday, 10 a.m. to 12 p.m., TBA
+- Exercise: Friday, 12 p.m. to 2 p.m., TBA
+- Location: TBA
+- Exam dates: TBA
 
 ## Course Schedule
 
-- ~~[17 Oct 2025] Lecture 1 + Orientation (in-person)~~
-- ~~[24 Oct 2025] Lecture 2 (online)~~
-- ~~[31 Oct 2025] No class (holiday in Germany)~~
-- ~~[07 Nov 2025] Lecture 3 (online)~~
-- ~~[14 Nov 2025] Lecture 4 (online)~~
-- [21 Nov 2025] Lecture 5 (in-person, hybrid)
-- [28 Nov 2025] Lecture 6 (online)
+- TBA
 
 ## Useful Resources
 
-External resources related to this course can be found at [references.md](references.md)
+Additional resources related to this course are listed in [`references.md`](references.md). 
+
+If you are aware of any relevant resources that should be included (e.g., your own work), please feel free to submit a pull request or contact me directly by [`email`](mailto:muandet@cispa.de?subject=IPML:%20Missing%20Resources).
