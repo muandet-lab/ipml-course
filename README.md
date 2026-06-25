@@ -129,4 +129,4 @@ The course project gives students a chance to apply what they've learned to a pr
 
 External resources related to this course can be found at [references.md](references.md). 
 
-If you notice any missing resources that should have been included, please initiate a pull request or contact me directly via [email](mailto:muandet@cispa.de?subject=[IPML]%20Missing%20Resources).
+If you notice any missing resources that should have been included, please initiate a pull request or contact me directly via [email](mailto:muandet@cispa.de?subject=IPML: %20Missing%20Resources).
