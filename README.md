@@ -127,6 +127,6 @@ The course project gives students a chance to apply what they've learned to a pr
 
 ## Useful Resources
 
-Additional resources related to this course are listed in `[references.md](references.md)`. 
+Additional resources related to this course are listed in [`references.md`](references.md). 
 
-If you are aware of any relevant resources that should be included (e.g., your own work), please feel free to submit a pull request or contact me directly by [email](mailto:muandet@cispa.de?subject=IPML:%20Missing%20Resources).
+If you are aware of any relevant resources that should be included (e.g., your own work), please feel free to submit a pull request or contact me directly by [`email`](mailto:muandet@cispa.de?subject=IPML:%20Missing%20Resources).
