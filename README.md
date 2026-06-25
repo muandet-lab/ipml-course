@@ -132,3 +132,7 @@ The course project gives students a chance to apply what they've learned to a pr
 - ~~[14 Nov 2025] Lecture 4 (online)~~
 - [21 Nov 2025] Lecture 5 (in-person, hybrid)
 - [28 Nov 2025] Lecture 6 (online)
+
+## Useful Resources
+
+[References][references.md]
