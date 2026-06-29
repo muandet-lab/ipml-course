@@ -16,6 +16,7 @@
 - [Interpretations of Probability](https://plato.stanford.edu/entries/probability-interpret/), The Stanford Encyclopedia of Philosophy, 2023
 - [Introduction to the Theory of Sets of Probabilities](https://www.cs.cmu.edu/~qbayes/Tutorial/quasi-bayesian.html) by Fabio Cozman
 - [Epistemic Artificial Intelligence is Essential for Machine Learning Models to Truly ‘Know When They Do Not Know’](https://arxiv.org/pdf/2505.04950)
+- [A Gentle Approach to Imprecise Probability](https://philarchive.org/archive/WHEAGA-2) by Gregory Wheeler
 
 ### Master and PhD Theses
 - [Imprecise Probabilities in Machine Learning: Structure and Semantics](https://bibliographie.uni-tuebingen.de/xmlui/bitstream/handle/10900/171001/froehlich_thesis.pdf?sequence=3), Christian Fröhlich, 2025
