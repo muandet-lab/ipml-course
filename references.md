@@ -69,6 +69,9 @@
 - [Integral Imprecise Probability Metrics](https://arxiv.org/abs/2505.16156), NeurIPS 2025
 - [False Confidence, Non-additive Beliefs, and Valid Statistical Inference](https://arxiv.org/pdf/1607.05051), IJAR 2019
 
+#### Possibility Theory
+- [An Efficient Monte Carlo Method for Valid Prior-free Possibilistic Statistical Inference](https://arxiv.org/pdf/2501.10585)
+
 #### Causality and Causal Inference
 - [Credal networks](https://www.sciencedirect.com/science/article/pii/S0004370200000291), Artificial Intelligence, 2000
 - [Thirty years of credal networks: Specification, algorithms and complexity](https://www.sciencedirect.com/science/article/pii/S0888613X20302152), International Journal of Approximate Reasoning, 2020
