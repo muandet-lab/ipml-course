@@ -2,6 +2,29 @@
 // the archived-offering banner, the "current offering" call-out on the home
 // page, the staff list and TBA placeholders.
 
+// An offering page carries eight nav items (Home + five offering pages +
+// References + Past Offerings), which is a few pixels wider than the centred
+// wrapper. The upstream nav is inline-block items with a 20px margin plus the
+// whitespace between tags; a no-wrap flex row drops the whitespace gaps and
+// tightens the spacing, so everything stays on one line with room to spare.
+//
+// Scoped above the mobile breakpoint so the hamburger dropdown in
+// _mobile-header.scss (which needs `display: block`) is left alone.
+@media screen and (min-width: 601px) {
+    .site-nav ul.menu {
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: flex-end;
+        align-items: flex-start;
+        column-gap: 16px;
+    }
+
+    .site-nav .menu > li {
+        margin-left: 0;
+        white-space: nowrap;
+    }
+}
+
 // The upstream header lays the course title out in an auto-width table with a
 // floated 26px title, so a long course name forces the whole page wider than a
 // phone viewport. Constrain the table and let the title wrap on small screens.
