@@ -1,0 +1,16 @@
+# Every offering of the course, newest first.
+#
+# This single list drives the home page, the /archive/ page and the
+# "archived offering" banner. When a new semester starts:
+#   1. copy the newest `<year>/` folder to the new one
+#   2. add a `defaults` block for it in _config.yml
+#   3. add an entry here and move `current: true` down to it
+- term: "Winter Semester 2026/27"
+  path: "/2026-2027/"
+  current: true
+  university: "Saarland University / University of Hamburg"
+
+- term: "Winter Semester 2025/26"
+  path: "/2025-2026/"
+  current: false
+  university: "University of Hamburg"

@@ -1,0 +1,148 @@
+// Styles added on top of the upstream template for the multi-offering setup:
+// the archived-offering banner, the "current offering" call-out on the home
+// page, the staff list and TBA placeholders.
+
+// An offering page carries eight nav items (Home + five offering pages +
+// References + Past Offerings), which is a few pixels wider than the centred
+// wrapper. The upstream nav is inline-block items with a 20px margin plus the
+// whitespace between tags; a no-wrap flex row drops the whitespace gaps and
+// tightens the spacing, so everything stays on one line with room to spare.
+//
+// Scoped above the mobile breakpoint so the hamburger dropdown in
+// _mobile-header.scss (which needs `display: block`) is left alone.
+@media screen and (min-width: 601px) {
+    .site-nav ul.menu {
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: flex-end;
+        align-items: flex-start;
+        column-gap: 16px;
+    }
+
+    .site-nav .menu > li {
+        margin-left: 0;
+        white-space: nowrap;
+    }
+}
+
+// The upstream header lays the course title out in an auto-width table with a
+// floated 26px title, so a long course name forces the whole page wider than a
+// phone viewport. Constrain the table and let the title wrap on small screens.
+.site-header table {
+    width: 100%;
+}
+
+@include media-query($on-palm) {
+    .site-title,
+    .site-title a {
+        float: none;
+        font-size: 20px;
+        letter-spacing: 0;
+    }
+
+    .site-header .schoolname {
+        font-size: 13px;
+    }
+}
+
+.archive-notice {
+    background-color: #fff8e1;
+    border: 1px solid #f0c36d;
+    border-left: 5px solid #f0c36d;
+    border-radius: 3px;
+    padding: 12px 15px;
+    margin-bottom: $spacing-unit;
+    font-size: 0.95em;
+    color: #614700;
+
+    i {
+        margin-right: 6px;
+    }
+
+    a {
+        color: $primary-color;
+        font-weight: 600;
+    }
+}
+
+.current-offering-box {
+    display: block;
+    background-color: rgba($primary-color, 0.07);
+    border-left: 5px solid $primary-color;
+    border-radius: 3px;
+    padding: 14px 18px;
+    margin: $spacing-unit 0;
+
+    .label {
+        display: block;
+        font-size: 0.75em;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: $grey-color-dark;
+        margin-bottom: 4px;
+    }
+
+    a {
+        font-size: 1.3em;
+        font-weight: 600;
+    }
+
+    .university {
+        display: block;
+        font-size: 0.85em;
+        color: $grey-color-dark;
+        margin-top: 2px;
+    }
+}
+
+.previous-offerings {
+    margin-left: 20px;
+}
+
+.staff-list {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+
+    > li {
+        margin-bottom: 12px;
+    }
+
+    .affiliation {
+        display: block;
+        font-size: 0.85em;
+        color: $grey-color-dark;
+    }
+
+    .image--cover-container {
+        margin-bottom: 4px;
+    }
+}
+
+.tba {
+    color: $grey-color;
+    font-style: italic;
+}
+
+// Logistics tables on the offering overview pages. They are written as
+// two-column markdown tables with an empty header row, which kramdown renders
+// as a blank <thead>.
+.logistics {
+    margin-top: 10px;
+
+    thead {
+        display: none;
+    }
+
+    th {
+        text-align: left;
+        white-space: nowrap;
+        padding-right: 15px;
+        vertical-align: top;
+    }
+
+    td, th {
+        border: none;
+        padding: 4px 15px 4px 0;
+    }
+}

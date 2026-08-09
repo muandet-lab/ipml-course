@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+{% comment %}
+  Overview page of a single offering. Identical for every year, so the 2025/26
+  archive and the current offering look and behave the same -- the only
+  difference is the archive banner injected by `default.html`.
+{% endcomment %}
+
+<div class="home">
+
+    <h1>{{ site.course_name }} <span style="font-size: 20px;color: #0006;">/ {{ page.term }}</span></h1>
+
+    {% if page.current %}
+    {% include announcements.html offering=page.offering %}
+    {% endif %}
+
+    {{ content }}
+
+    {% include staff.html %}
+</div>

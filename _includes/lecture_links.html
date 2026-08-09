@@ -1,0 +1,10 @@
+{%- if include.lecture.links -%}
+{%- for link in include.lecture.links -%}
+{%- if link.url contains '://' -%}
+{%- assign href = link.url -%}
+{%- else -%}
+{%- assign href = link.url | relative_url -%}
+{%- endif -%}
+[<a title="Download {{ link.name }}" href="{{ href }}">{{ link.name }}</a>]
+{% endfor -%}
+{%- endif -%}

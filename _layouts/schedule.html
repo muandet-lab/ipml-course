@@ -1,0 +1,62 @@
+---
+layout: default
+---
+
+<header class="post-header">
+    <h1 class="post-title">Schedule</h1>
+</header>
+
+{{ content }}
+
+{% comment %}
+  The schedule is assembled from everything in this offering with a confirmed
+  date: lectures, exercises (plus their due dates) and standalone events such
+  as holidays and exams. Items whose date is not yet known are deliberately
+  left out rather than guessed at -- they still appear on the Lectures /
+  Exercises pages.
+
+  Membership is driven by an explicit `scheduled: true` flag and not by the
+  presence of `date`, because Jekyll silently gives every undated collection
+  document the build time as its date.
+{% endcomment %}
+{% assign off_lectures = site.lectures | where: "offering", page.offering %}
+{% assign off_assignments = site.assignments | where: "offering", page.offering %}
+{% assign off_events = site.events | where: "offering", page.offering %}
+
+{% assign dated_assignments = off_assignments | where_exp: "a", "a.due_event" %}
+{% assign all_assignment_dues = dated_assignments | map: "due_event" %}
+
+{% assign all_events = off_events | concat: off_lectures | concat: off_assignments %}
+
+{% assign scheduled = "" | split: "" %}
+{% for e in all_events %}
+    {% if e.scheduled %}
+        {% assign scheduled = scheduled | push: e %}
+    {% endif %}
+{% endfor %}
+
+{% comment %} Due dates are plain front-matter hashes, so they are always explicit. {% endcomment %}
+{% assign scheduled = scheduled | concat: all_assignment_dues %}
+{% assign all_events_sorted = scheduled | sort: 'date' %}
+
+{% if all_events_sorted.size == 0 %}
+<p class="tba">The schedule for this offering has not been announced yet.</p>
+{% else %}
+<div class="home" style="font-size: 0.8em;">
+    <ul class="responsive-table" style="margin-left: 0;">
+        <li class="table-header">
+            <div class="col col-1">Event</div>
+            <div class="col col-1-2">Date</div>
+            <div class="col col-2">Description</div>
+            <div class="col col-4">Course Material</div>
+        </li>
+
+        {% for event in all_events_sorted %}
+        <li class="table-row table-row-{{ event.type }}">
+            {% include schedule_row_{{ event.type }}.html event=event %}
+        </li>
+        {% endfor %}
+
+    </ul>
+</div>
+{% endif %}

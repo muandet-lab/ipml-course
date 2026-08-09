@@ -1,0 +1,42 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{% assign lectures = site.lectures | where: "offering", page.offering | sort: "sequence" %}
+
+<ul id="archive">
+{% for lecture in lectures %}
+<li class="archiveposturl" style="background: transparent">
+<div class="lecture-container">
+    {% if lecture.thumbnail %}
+    <div class="thumbnail">
+      <div class="center-cropped" style="margin-top:5px;margin-bottom:5px;background-image: url('{{ lecture.thumbnail | relative_url }}');">
+        <img src="{{ lecture.thumbnail | relative_url }}" alt=""/>
+      </div>
+    </div>
+    {% endif %}
+    <div class="content">
+        <span style="font-weight: bold;">{{ lecture.title }}</span><br>
+
+        {% if lecture.tldr %}<strong>tl;dr:</strong> {{ lecture.tldr }}<br/>{% endif %}
+        {% if lecture.links %}
+        <strong>
+        {% include lecture_links.html lecture=lecture %}
+        </strong>
+        {% else %}
+        <em class="tba">Slides: TBA</em>
+        {% endif %}
+
+        {% if lecture.content != '' %}
+        <br/>
+        <div class="markdown-content" style="margin-top: 3px;">
+        {{ lecture.content }}
+        </div>
+        {% endif %}
+    </div>
+</div>
+</li>
+{% endfor %}
+</ul>
