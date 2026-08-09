@@ -1,0 +1,42 @@
+{% comment %}
+  Instructors and teaching assistants. Profile pictures are optional -- an
+  entry without one renders as a plain name so the page still looks tidy
+  before pictures have been collected.
+{% endcomment %}
+{% assign instructors = site.data.people.instructors %}
+{% assign tas = site.data.people.teaching_assistants %}
+
+{% if instructors and instructors.size > 0 %}
+<h2>{% if instructors.size > 1 %}Instructors{% else %}Instructor{% endif %}</h2>
+<ul class="staff-list">
+    {% for ins in instructors %}
+    <li>
+        {% if ins.profile_pic %}
+        <div class="image--cover-container">
+            <img src="{{ ins.profile_pic | relative_url }}" class="image--cover" alt="{{ ins.name }}">
+        </div>
+        {% endif %}
+        {% if ins.webpage %}<a href="{{ ins.webpage }}">{{ ins.name }}</a>{% else %}{{ ins.name }}{% endif %}
+        {% if ins.affiliation %}<span class="affiliation">{{ ins.affiliation }}</span>{% endif %}
+        {% if ins.email %}<span class="affiliation"><a href="mailto:{{ ins.email }}">{{ ins.email }}</a></span>{% endif %}
+    </li>
+    {% endfor %}
+</ul>
+{% endif %}
+
+{% if tas and tas.size > 0 %}
+<h2>Teaching Assistants</h2>
+<ul class="staff-list">
+    {% for ta in tas %}
+    <li>
+        {% if ta.profile_pic %}
+        <div class="image--cover-container">
+            <img src="{{ ta.profile_pic | relative_url }}" class="image--cover" alt="{{ ta.name }}">
+        </div>
+        {% endif %}
+        {% if ta.webpage %}<a href="{{ ta.webpage }}">{{ ta.name }}</a>{% else %}{{ ta.name }}{% endif %}
+        {% if ta.affiliation %}<span class="affiliation">{{ ta.affiliation }}</span>{% endif %}
+    </li>
+    {% endfor %}
+</ul>
+{% endif %}

@@ -1,0 +1,17 @@
+{% comment %}
+  Shown on every page of an offering that is no longer the current one.
+  Old course pages are often reached directly from search engines, so the
+  banner has to make the archived status obvious wherever a visitor lands.
+{% endcomment %}
+{% if page.offering and page.current != true %}
+  {% assign current_offering = site.data.offerings | where: "current", true | first %}
+<div class="archive-notice">
+  <i class="fas fa-archive"></i>
+  This is an <strong>archived</strong> offering of the course ({{ page.term }}).
+  {% if current_offering %}
+  <a href="{{ current_offering.path | relative_url }}">View the current offering ({{ current_offering.term }})</a>.
+  {% else %}
+  <a href="{{ '/' | relative_url }}">View the current offering</a>.
+  {% endif %}
+</div>
+{% endif %}

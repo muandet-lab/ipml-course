@@ -1,0 +1,16 @@
+# Course staff.
+#
+# `profile_pic` and `webpage` are both optional -- entries without a picture
+# render as a plain name. Put pictures in `_images/pp/` and reference them as
+# `/_images/pp/<file>.jpg`.
+#
+# TODO(advisor): add profile pictures, a homepage URL for the instructor, and
+# the teaching assistants for the 2026/27 offering.
+instructors:
+  - name: Krikamol Muandet
+    affiliation: CISPA Helmholtz Center for Information Security
+    email: muandet@cispa.de
+    # webpage:
+    # profile_pic: /_images/pp/muandet.jpg
+
+teaching_assistants: []

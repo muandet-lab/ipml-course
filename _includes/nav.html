@@ -1,0 +1,30 @@
+<ul class="menu">
+    <li>
+        <a class="page-link" href="{{ '/' | relative_url }}">
+            <i class="fa fa-home fa-lg"></i> Home
+        </a>
+    </li>
+
+    {% comment %}
+      Pages that belong to an offering get that offering's navigation, with
+      every URL resolved relative to the offering root (e.g. /2026-2027/).
+    {% endcomment %}
+    {% if page.offering %}
+        {% capture offering_root %}/{{ page.offering }}/{% endcapture %}
+        {% for item in site.data.nav.offering_items %}
+        <li>
+            <a class="page-link" href="{{ item.url | prepend: offering_root | relative_url }}">
+                <i class="{{ item.icon_class }}"></i> {{ item.name }}
+            </a>
+        </li>
+        {% endfor %}
+    {% endif %}
+
+    {% for item in site.data.nav.site_items %}
+    <li>
+        <a class="page-link" href="{{ item.url | relative_url }}">
+            <i class="{{ item.icon_class }}"></i> {{ item.name }}
+        </a>
+    </li>
+    {% endfor %}
+</ul>

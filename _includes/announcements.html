@@ -1,0 +1,51 @@
+{% comment %}
+  Recent activity for one offering.
+  Usage: include this file with an `offering` parameter.
+  Only dated items take part, so the "TBA" entries of an offering that has not
+  started yet never show up here.
+{% endcomment %}
+{% assign off = include.offering %}
+
+{% assign off_lectures = site.lectures | where: "offering", off %}
+{% assign off_assignments = site.assignments | where: "offering", off %}
+{% assign off_events = site.events | where: "offering", off %}
+{% assign off_announcements = site.announcements | where: "offering", off %}
+
+{% assign all_events = off_events | concat: off_lectures | concat: off_assignments %}
+
+{% assign events_to_show = "" | split: "" %}
+{% for e in all_events %}
+    {% unless e.hide_from_announcments %}
+        {% comment %} `scheduled` marks a confirmed date; see _layouts/schedule.html. {% endcomment %}
+        {% if e.scheduled %}
+            {% assign events_to_show = events_to_show | push: e %}
+        {% endif %}
+    {% endunless %}
+{% endfor %}
+
+{% assign all_events = events_to_show | concat: off_announcements %}
+{% assign all_events_sorted = all_events | sort: 'date' | reverse %}
+
+{% if all_events_sorted.size > 0 %}
+<div class="announcement-box" style="margin-top:30px">
+<h2>Updates</h2>
+<ul>
+    {% for n in all_events_sorted limit:7 %}
+    <li class="no-p-margin">
+        {% if n.type %}
+            {% if n.type == 'lecture' %}
+                New lecture is up: {{ n.title }}
+                {% include lecture_links.html lecture=n %}
+            {% elsif n.type == 'assignment' %}
+                New exercise released: [<a href="{{ n.url | relative_url }}">{{ n.title }}</a>]
+            {% else %}
+                {{ n.description }}
+            {% endif %}
+        {% else %}
+        {{ n.content }}
+        {% endif %}
+    </li>
+    {% endfor %}
+</ul>
+</div>
+{% endif %}

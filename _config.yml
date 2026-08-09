@@ -1,0 +1,89 @@
+# ---------------------------------------------------------------------------
+# Site settings
+# ---------------------------------------------------------------------------
+course_name: "Imprecise Probabilistic Machine Learning"
+course_code: "IPML"
+course_description: "While modern machine learning algorithms have made significant progress, most are built on classical probability theory and associated decision theory. This framework often struggles to capture the multifaceted uncertainties inherent in complex, real-world systems, which can negatively impact the robustness, trustworthiness, and safety of deployed models. Imprecise probability (IP) provides a more flexible and faithful approach to representing and manipulating uncertainty."
+
+# The semester shown in the header when a page does not belong to a specific
+# offering. Individual offerings override this via `term` (see `defaults`).
+course_semester: "Winter Semester 2026/27"
+
+baseurl: "/ipml-course"                     # repository name on GitHub
+url: "https://muandet-lab.github.io"        # base hostname & protocol
+
+schoolname: "CISPA Helmholtz Center for Information Security"
+schoolurl: "https://cispa.de/"
+github_repo: "https://github.com/muandet-lab/ipml-course"
+contact_email: "muandet@cispa.de"
+
+address: |
+    CISPA Helmholtz Center for Information Security
+    Saarbrücken, Germany
+
+# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
+# google_analytics: UA-XXXXXXXX-X
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+exclude:
+  - develop
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
+  - TEMPLATE-LICENSE
+  - LICENSE
+
+dateformat: "%d %b %Y"
+
+future: true
+
+collections:
+    events:
+        output: false
+    lectures:
+        output: false
+    assignments:
+        output: true
+    announcements:
+        output: false
+
+# ---------------------------------------------------------------------------
+# Per-offering front matter defaults.
+#
+# Every page under `<year>/` automatically inherits the offering metadata, so
+# the layouts know which offering's lectures/events/assignments to show and
+# whether to display the "archived offering" banner.
+#
+# To add a new offering: copy the newest `<year>/` folder, add a block here,
+# add an entry to `_data/offerings.yml`, and flip `current` on both.
+# ---------------------------------------------------------------------------
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"
+
+  - scope:
+      path: "2025-2026"
+    values:
+      offering: "2025-2026"
+      term: "Winter Semester 2025/26"
+      current: false
+
+  - scope:
+      path: "2026-2027"
+    values:
+      offering: "2026-2027"
+      term: "Winter Semester 2026/27"
+      current: true

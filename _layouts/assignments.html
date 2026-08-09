@@ -1,0 +1,25 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{% assign assignments = site.assignments | where: "offering", page.offering | sort: "sequence" %}
+
+{% if assignments.size == 0 %}
+<p class="tba">No exercises have been published for this offering yet.</p>
+{% else %}
+<ul id="archive">
+{% for asg in assignments %}
+      <li class="archiveposturl" style="background: transparent">
+        <span><a href="{{ asg.url | relative_url }}">{{ asg.title }}</a></span>
+<strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
+{% if asg.pdf %}<a title="Download problems (pdf)" href="{{ asg.pdf | relative_url }}"><i class="fas fa-file-pdf"></i></a>{% endif %}
+{% if asg.attachment %}
+&nbsp; <a title="Download attachments (zip)" href="{{ asg.attachment | relative_url }}"><i class="fas fa-file-archive"></i></a>
+{% endif %}
+</strong>
+      </li>
+{% endfor %}
+</ul>
+{% endif %}

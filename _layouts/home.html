@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+{% assign current_offering = site.data.offerings | where: "current", true | first %}
+{% assign past_offerings = site.data.offerings | where: "current", false %}
+
+<div class="home">
+
+    <h1>{{ site.course_name }}</h1>
+
+    {% if current_offering %}
+    <div class="current-offering-box">
+        <span class="label">Current offering</span>
+        <a href="{{ current_offering.path | relative_url }}">{{ current_offering.term }}</a>
+        {% if current_offering.university %}<span class="university">{{ current_offering.university }}</span>{% endif %}
+    </div>
+    {% endif %}
+
+    {% if current_offering %}
+    {% assign current_slug = current_offering.path | remove: "/" %}
+    {% include announcements.html offering=current_slug %}
+    {% endif %}
+
+    {{ content }}
+
+    {% if past_offerings.size > 0 %}
+    <h2>Previous Offerings</h2>
+    <ul class="previous-offerings">
+    {% for offer in past_offerings %}
+    <li><a href="{{ offer.path | relative_url }}">{{ offer.term }}</a>{% if offer.university %} &mdash; {{ offer.university }}{% endif %}</li>
+    {% endfor %}
+    </ul>
+    <p>All offerings are listed in the <a href="{{ '/archive/' | relative_url }}">course archive</a>.</p>
+    {% endif %}
+
+    {% include staff.html %}
+</div>

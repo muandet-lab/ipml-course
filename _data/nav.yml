@@ -1,0 +1,35 @@
+# Navigation.
+#
+# `offering_items` are shown only on pages that belong to a course offering.
+# Their URLs are relative to the offering root, so the same list works for
+# every year (e.g. `schedule/` -> /ipml-course/2026-2027/schedule/).
+offering_items:
+  - url: ""
+    name: Overview
+    icon_class: fa fa-home fa-lg
+
+  - url: "schedule/"
+    name: Schedule
+    icon_class: fas fa-calendar-alt
+
+  - url: "lectures/"
+    name: Lectures
+    icon_class: fas fa-book-reader
+
+  - url: "exercises/"
+    name: Exercises
+    icon_class: fas fa-user-graduate
+
+  - url: "project/"
+    name: Project
+    icon_class: fas fa-lightbulb
+
+# `site_items` are permanent, offering-independent pages.
+site_items:
+  - url: /references/
+    name: References
+    icon_class: fas fa-book
+
+  - url: /archive/
+    name: Past Offerings
+    icon_class: fas fa-archive
