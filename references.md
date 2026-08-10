@@ -4,8 +4,8 @@ title: References
 permalink: /references/
 ---
 
-{% include image.html url="/_images/SRIP-Walley.jpg" height=50 align="left" %}
-{% include image.html url="/_images/IIP-Augustin.jpeg" height=50 align="left" %}
+{% include image.html url="/_images/SRIP-Walley.jpg" width="50" align="left" %}
+{% include image.html url="/_images/IIP-Augustin.jpeg" width="50" align="left" %}
 
 ### Books
 
