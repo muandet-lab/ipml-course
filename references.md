@@ -5,7 +5,7 @@ permalink: /references/
 ---
 
 {% include image.html url="/_images/SRIP-Walley.jpg" width=175 align="right" %}
-{% include image.html url="/_images/IIP-Augustin.jpg" width=175 align="right" %}
+{% include image.html url="/_images/IIP-Augustin.jpeg" width=175 align="right" %}
 
 ### Books
 
