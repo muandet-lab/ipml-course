@@ -10,7 +10,7 @@ We provide a non-exhaustive list of materials relevant to the course here. If yo
 {% include image.html url="/_images/IIP-Augustin.jpeg" width="200" align="left" %}
 {% include image.html url="/_images/LP-Troffaes.jpg" width="200" align="left" %}
 {% include image.html url="/_images/IM-Martin.jpg" width="200" align="left" %}
-
+{% include image.html url="/_images/GoU-Cuzzolin.jpg" width="200" align="left" %}
 
 ### Books
 
