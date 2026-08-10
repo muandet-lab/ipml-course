@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Imprecise Probabilistic Machine Learning
+title: 
 ---
 
 > “There are known knowns. There are known unknowns. But there are also unknown unknowns—things we do not yet realize we do not know.” — Donald Rumsfeld (2002)
