@@ -4,6 +4,8 @@ title: References
 permalink: /references/
 ---
 
+{% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
+
 ### Books
 
 - Statistical Reasoning with Imprecise Probabilities (1990) by Peter Walley
