@@ -88,6 +88,7 @@ We provide a non-exhaustive list of materials relevant to the course here. If yo
 
 ### Possibility Theory
 - [An Efficient Monte Carlo Method for Valid Prior-free Possibilistic Statistical Inference](https://arxiv.org/pdf/2501.10585)
+- [Regularized e-processes: anytime valid inference with knowledge-based efficiency gains](https://arxiv.org/pdf/2410.01427v4)
 
 ### Causality and Causal Inference
 - [Credal networks](https://www.sciencedirect.com/science/article/pii/S0004370200000291), Artificial Intelligence, 2000
