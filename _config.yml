@@ -13,11 +13,12 @@ baseurl: "/ipml-course"                     # repository name on GitHub
 url: "https://muandet-lab.github.io"        # base hostname & protocol
 
 schoolname: "CISPA Helmholtz Center for Information Security"
-schoolurl: "https://cispa.de/"
+schoolurl: "https://ri-lab.org/"
 github_repo: "https://github.com/muandet-lab/ipml-course"
 contact_email: "muandet@cispa.de"
 
 address: |
+    Rational Intelligence Lab
     CISPA Helmholtz Center for Information Security
     Saarbrücken, Germany
 
