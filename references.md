@@ -6,7 +6,7 @@ permalink: /references/
 
 We provide a non-exhaustive list of materials relevant to the course here. If you would like to suggest additional resources for inclusion (including your own work), please feel free to submit a pull request on GitHub or contact us directly by email.
 
-## Books
+## Textbooks
 
 {% include image.html url="/_images/SRIP-Walley.jpg" width="200" align="left" %}
 {% include image.html url="/_images/IIP-Augustin.jpeg" width="200" align="left" %}
