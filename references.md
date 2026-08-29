@@ -150,6 +150,8 @@ The teaching materials for this course were partly inspired by those used in the
 
 - [SIPTA School](https://sipta.org/events/sipta-school/)
 - [The 1st Workshop on Epistemic Intelligence in Machine Learning (EIML)](https://sites.google.com/view/eiml-eurips2025/) at [EurIPS 2025](https://eurips.cc/)
+- [The 2nd Workshop on Epistemic Intelligence in Machine Learning (EIML): Learning under Unknown Unknowns for Real-world Impact](https://sites.google.com/view/eimlicml2026/home) at [ICML 2026](https://icml.cc/Conferences/2026)
+
 
 ## Communities
 - [The Society for Imprecise Probabilities: Theories and Applications (SIPTA)](https://sipta.org/)
