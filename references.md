@@ -16,7 +16,7 @@ We provide a non-exhaustive list of materials relevant to the course here. If yo
 {% include image.html url="/_images/IUQ-Sullivan.jpg" width="200" align="left" %}
 {% include image.html url="/_images/PF-Shafer.jpg" width="200" align="left" %}
 
-<br/>
+<br/><br/><br/><br/><br/>
 
 - Statistical Reasoning with Imprecise Probabilities (1990) by Peter Walley
 - Introduction to Imprecise Probabilities (2014) by Thomas Augustin, Frank P.A. Coolen, Gert de Cooman, and Matthias C. M. Troffaes
