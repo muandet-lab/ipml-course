@@ -8,13 +8,13 @@ We provide a non-exhaustive list of materials relevant to the course here. If yo
 
 ## Textbooks
 
-{% include image.html url="/_images/SRIP-Walley.jpg" width="160" align="left" %}
-{% include image.html url="/_images/IIP-Augustin.jpeg" width="160" align="left" %}
-{% include image.html url="/_images/LP-Troffaes.jpg" width="160" align="left" %}
-{% include image.html url="/_images/IM-Martin.jpg" width="160" align="left" %}
-{% include image.html url="/_images/GoU-Cuzzolin.jpg" width="160" align="left" %}
-{% include image.html url="/_images/IUQ-Sullivan.jpg" width="160" align="left" %}
-{% include image.html url="/_images/PF-Shafer.jpg" width="160" align="left" %}
+{% include image.html url="/_images/SRIP-Walley.jpg" width="150" align="left" %}
+{% include image.html url="/_images/IIP-Augustin.jpeg" width="150" align="left" %}
+{% include image.html url="/_images/LP-Troffaes.jpg" width="150" align="left" %}
+{% include image.html url="/_images/IM-Martin.jpg" width="150" align="left" %}
+{% include image.html url="/_images/GoU-Cuzzolin.jpg" width="150" align="left" %}
+{% include image.html url="/_images/IUQ-Sullivan.jpg" width="150" align="left" %}
+{% include image.html url="/_images/PF-Shafer.jpg" width="150" align="left" %}
 
 <div style="clear: both;"></div>
 
