@@ -28,6 +28,10 @@ The course is divided into two main parts.
 
 **Part II** explores the practical applications of imprecise probability in machine learning. Topics covered will include its use in classification, regression, conformal prediction, and uncertainty quantification, as well as its relevance to reinforcement learning, causal inference, and foundation models. Students will also learn to implement fundamental imprecise probability algorithms for these diverse applications. A course project allows students to further tailor the material to their specific interests.
 
+## Prerequisite
+
+Students are expected to have completed an introductory course in (probabilistic) machine learning and be familiar with core concepts such as statistical learning, linear regression, classification, clustering, neural networks, Bayes’ rule, probabilistic graphical models, likelihood and maximum likelihood estimation, Bayesian inference, probabilistic prediction, and uncertainty quantification. Familiarity with basic probability theory, linear algebra, and calculus is assumed. Prior knowledge of measure theory is not required, although familiarity with it is beneficial.
+
 ## Resources
 
 A curated list of books, articles, theses, and research papers related to the course is maintained in the [references]({{ '/references/' | relative_url }}) page.
