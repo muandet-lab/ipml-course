@@ -8,9 +8,9 @@
 - term: "Winter Semester 2026/27"
   path: "/2026-2027/"
   current: true
-  university: "Saarland University / University of Hamburg"
+  university: "Saarland University / University of Hamburg / Public Enrollment"
 
 - term: "Winter Semester 2025/26"
   path: "/2025-2026/"
   current: false
-  university: "University of Hamburg"
+  university: "University of Hamburg / Public Enrollment"
