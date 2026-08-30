@@ -90,6 +90,7 @@ We provide a non-exhaustive list of materials relevant to the course here. If yo
 - [Regularized e-processes: anytime valid inference with knowledge-based efficiency gains](https://arxiv.org/pdf/2410.01427v4)
 
 ### Causality and Causal Inference
+- [Information-Theoretic Lower Bounds for Causal Inference under Credal Uncertainty](https://proceedings.mlr.press/v337/mai26a.html), UAI 2026
 - [Credal networks](https://www.sciencedirect.com/science/article/pii/S0004370200000291), Artificial Intelligence, 2000
 - [Thirty years of credal networks: Specification, algorithms and complexity](https://www.sciencedirect.com/science/article/pii/S0888613X20302152), International Journal of Approximate Reasoning, 2020
 
