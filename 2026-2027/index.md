@@ -17,7 +17,7 @@ permalink: /2026-2027/
 
 ## Course Material
 
-- [Schedule]({{ '/2026-2027/schedule/' | relative_url }}) — to be announced
+- [Schedule]({{ '/2026-2027/schedule/' | relative_url }}) — lecture and exercise dates
 - [Lectures]({{ '/2026-2027/lectures/' | relative_url }}) — planned topics; slides are posted as the semester progresses
 - [Exercises]({{ '/2026-2027/exercises/' | relative_url }}) — worksheets are released during the semester
 - [Project]({{ '/2026-2027/project/' | relative_url }}) — course project
