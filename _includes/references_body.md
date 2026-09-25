@@ -118,6 +118,7 @@ We provide a non-exhaustive list of materials relevant to the course here. If yo
 - [Imprecise Multi-Armed Bandits: Representing Irreducible Uncertainty as a Zero-Sum Game](https://www.jmlr.org/papers/volume26/24-2001/24-2001.pdf), JMLR, 2025
 
 ### Imprecise Probability in Modern ML (Deep Learning, Foundation Models, LLM, GenAI)
+- [Random-Set Graph Neural Networks](https://arxiv.org/abs/2605.11987), NeurIPS, 2026
 - [Credal Bayesian Deep Learning](https://arxiv.org/pdf/2302.09656), TMLR, 2024
 - [Aleatoric and Epistemic Uncertainty with Random Forests](https://arxiv.org/pdf/2001.00893), Advances in Intelligent Data Analysis, 2020
 - [Credal Self-Supervised Learning](https://arxiv.org/pdf/2106.11853), NeurIPS, 2021
