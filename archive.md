@@ -4,9 +4,6 @@ title: Course Archive
 permalink: /archive/
 ---
 
-Every offering of the course keeps its own permanent address, so material stays
-citable years after the semester ends.
-
 <ul class="previous-offerings">
 {% for course in site.data.offerings %}
   <li>
@@ -16,6 +13,3 @@ citable years after the semester ends.
   </li>
 {% endfor %}
 </ul>
-
-The full history of the course, including the source of this website, is
-available in the [GitHub repository]({{ site.github_repo }}).

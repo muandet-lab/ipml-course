@@ -17,12 +17,10 @@ permalink: /2026-2027/
 
 ## Announcements and Discussion
 
-Course announcements and updates are posted to the Google group
+Course announcements and updates will be posted to the Google group
 [ipml-course-ws-2026-2027](https://groups.google.com/g/ipml-course-ws-2026-2027),
-which also serves as the discussion forum for the course. Open the group and
-click **Ask to join** to request access. Students enrolled through the public
-enrolment route should join the group at the start of the semester, as this is
-where organisational updates are sent.
+click **Ask to join** to request access. Students enrolled via public enrolment
+are also welcome to join.
 
 ## Course Material
 

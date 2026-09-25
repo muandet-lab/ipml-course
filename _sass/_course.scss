@@ -146,3 +146,19 @@
         padding: 4px 15px 4px 0;
     }
 }
+
+// Updates box on the offering overview. Each entry is prefixed with its date;
+// announcement bodies come from markdown, so their leading paragraph has to be
+// pulled inline for the date to sit on the same line as the text.
+.announcement-box {
+
+    .update-date {
+        color: $grey-color-dark;
+        white-space: nowrap;
+        margin-right: 4px;
+    }
+
+    li > p:first-of-type {
+        display: inline;
+    }
+}

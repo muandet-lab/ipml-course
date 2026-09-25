@@ -44,6 +44,7 @@
 <ul>
     {% for n in all_events_sorted limit:7 %}
     <li class="no-p-margin">
+        <span class="update-date">[{{ n.date | date: site.dateformat }}]</span>
         {% if n.type %}
             {% if n.type == 'lecture' %}
                 New lecture is up: {{ n.title }}
