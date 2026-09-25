@@ -83,7 +83,21 @@ defaults:
       current: false
 
   - scope:
+      path: "_assignments/2025-2026"
+    values:
+      offering: "2025-2026"
+      term: "Winter Semester 2025/26"
+      current: false
+
+  - scope:
       path: "2026-2027"
+    values:
+      offering: "2026-2027"
+      term: "Winter Semester 2026/27"
+      current: true
+
+  - scope:
+      path: "_assignments/2026-2027"
     values:
       offering: "2026-2027"
       term: "Winter Semester 2026/27"

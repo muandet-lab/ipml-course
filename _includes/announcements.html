@@ -18,7 +18,19 @@
     {% unless e.hide_from_announcments %}
         {% comment %} `scheduled` marks a confirmed date; see _layouts/schedule.html. {% endcomment %}
         {% if e.scheduled %}
-            {% assign events_to_show = events_to_show | push: e %}
+            {% comment %}
+              A planned lecture is not news. It becomes an update only once its
+              material is online, i.e. once the lecture file has `links:`.
+              Without this the whole syllabus is announced before the semester
+              starts, because every lecture already carries a confirmed date.
+            {% endcomment %}
+            {% assign announceable = true %}
+            {% if e.type == 'lecture' and e.links == nil %}
+                {% assign announceable = false %}
+            {% endif %}
+            {% if announceable %}
+                {% assign events_to_show = events_to_show | push: e %}
+            {% endif %}
         {% endif %}
     {% endunless %}
 {% endfor %}
