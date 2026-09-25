@@ -23,5 +23,5 @@ permalink: /2026-2027/
 - [Project]({{ '/2026-2027/project/' | relative_url }}) — course project
 
 Reading material that is not specific to a single semester is collected on the
-permanent [references]({{ '/references/' | relative_url }}) page. Slides from the
+[references]({{ '/2026-2027/references/' | relative_url }}) page. Slides from the
 [previous offering]({{ '/2025-2026/' | relative_url }}) remain available.

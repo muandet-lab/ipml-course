@@ -1,7 +1,7 @@
 ---
 layout: page
 title: References
-permalink: /references/
+permalink: /2026-2027/references/
 ---
 
 {% include references_body.md %}

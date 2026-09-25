@@ -24,11 +24,20 @@ offering_items:
     name: Project
     icon_class: fas fa-lightbulb
 
+  - url: "references/"
+    name: References
+    icon_class: fas fa-book
+
 # `site_items` are permanent, offering-independent pages.
+#
+# `hide_in_offering` marks an entry that has a per-offering counterpart in
+# `offering_items`; nav.html skips it while the reader is inside an offering so
+# the same tab is not shown twice.
 site_items:
   - url: /references/
     name: References
     icon_class: fas fa-book
+    hide_in_offering: true
 
   - url: /archive/
     name: Past Offerings

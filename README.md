@@ -49,6 +49,12 @@ Content that belongs to a semester (slides, worksheets, dates, room numbers)
 lives under that semester's folder. Content that outlives a semester (the course
 description and the reading list) lives at the top level.
 
+The reading list itself is written once, in `_includes/references_body.md`. The
+top-level `references.md` and the per-offering `<offering>/references.md` pages
+are thin wrappers around that include, so a student who opens References from
+inside an offering keeps that offering's navigation instead of being dropped
+onto a page with no way back. Edit the include, never the wrappers.
+
 ## Common tasks
 
 **Publish the slides for a lecture.** Drop the PDF into
@@ -107,7 +113,7 @@ Pushes to `main` are built and published by the GitHub Actions workflow in
 ## Contributing resources
 
 If you are aware of a relevant resource that should be listed in
-[`references.md`](references.md) (e.g. your own work), please open a pull
+[`_includes/references_body.md`](_includes/references_body.md) (e.g. your own work), please open a pull
 request or contact us by [email](mailto:muandet@cispa.de?subject=IPML:%20Missing%20Resources).
 
 ## Acknowledgement

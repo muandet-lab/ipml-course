@@ -21,10 +21,12 @@
     {% endif %}
 
     {% for item in site.data.nav.site_items %}
+    {% unless item.hide_in_offering and page.offering %}
     <li>
         <a class="page-link" href="{{ item.url | relative_url }}">
             <i class="{{ item.icon_class }}"></i> {{ item.name }}
         </a>
     </li>
+    {% endunless %}
     {% endfor %}
 </ul>

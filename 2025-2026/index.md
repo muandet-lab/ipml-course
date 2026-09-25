@@ -26,4 +26,4 @@ Hamburg.
 - [Project]({{ '/2025-2026/project/' | relative_url }}) — course project
 
 Reading material that is not specific to a single semester is collected on the
-permanent [references]({{ '/references/' | relative_url }}) page.
+[references]({{ '/2025-2026/references/' | relative_url }}) page.
