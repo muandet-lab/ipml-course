@@ -15,14 +15,17 @@ teaching_assistants:
     affiliation: CISPA Helmholtz Center for Information Security
     webpage: https://anurag14.github.io/
     profile_pic: /_images/pp/anurag.jpg
+    
   - name: Kiet Vo
     affiliation: CISPA Helmholtz Center for Information Security
     webpage: https://kietqhvo.github.io/
     profile_pic: /_images/pp/kiet.jpeg
+    
   - name: Gowtham Reddy
     affiliation: CISPA Helmholtz Center for Information Security
     webpage: https://gautam0707.github.io/
     profile_pic: /_images/pp/gowtham.jpg
+    
   - name: Yuhao Wang
     affiliation: Amazon
     webpage: https://yohannawang.com/
