@@ -37,3 +37,9 @@ Students are expected to have completed an introductory course in (probabilistic
 A curated list of books, articles, theses, and research papers related to the course is maintained in the [references]({{ '/references/' | relative_url }}) page.
 
 If you are aware of any relevant resources that should be included (e.g. your own work), please feel free to submit a pull request on [GitHub]({{ site.github_repo }}) or contact us by [email](mailto:{{ site.contact_email }}?subject=IPML:%20Missing%20Resources).
+
+## Acknowledgement
+
+This course has been developed in part based on knowledge and insights gained through the [SIPTA School](https://sipta.org/events/sipta-school/). Some of the foundational lectures draw inspiration from materials developed for [ST790: Imprecise-Probabilistic Foundations of Statistics & Data Science](https://wolfware.ncsu.edu/notice/wordpress-courses2223.wolfware.ncsu.edu/st-790-001-fall-2022/) by [Ryan Martin](https://www4.stat.ncsu.edu/~rgmarti3/), Uncertainty Representation and Reasoning (2AMU30) by [Erik Quaeghebeur](https://research.tue.nl/en/persons/erik-quaeghebeur/) and Vu-Linh Nguyen, and [Theory of Belief Functions: Application to Machine Learning and Statistical Inference](https://www.hds.utc.fr/~tdenoeux/dokuwiki/en/bf) by [Thierry Denoeux](https://cv.hal.science/tdenoeux). We gratefully acknowledge these excellent resources and their authors.
+
+If you develop your own course based on materials from this course, we would appreciate an acknowledgement.
