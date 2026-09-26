@@ -30,19 +30,19 @@ We provide a non-exhaustive list of materials relevant to the course here. If yo
   </div>
 
   <div class="book">
-    <img src="{{ '/_images/_images/IUQ-Sullivan.jpg' | relative_url }}">
+    <img src="{{ '/_images/IUQ-Sullivan.jpg' | relative_url }}">
     <div class="book-title">Introduction to Uncertainty Quantification</div>
     <div class="book-meta">Sullivan, 2015</div>
   </div>
 
   <div class="book">
-    <img src="{{ '/_images/_images/IM-Martin.jpg' | relative_url }}">
+    <img src="{{ '/_images/IM-Martin.jpg' | relative_url }}">
     <div class="book-title">Inferential Models: Reasoning with Uncertainty</div>
     <div class="book-meta">Martin & Liu, 2016</div>
   </div>
 
   <div class="book">
-    <img src="{{ '/_images/_images/GoU-Cuzzolin.jpg' | relative_url }}">
+    <img src="{{ '/_images/GoU-Cuzzolin.jpg' | relative_url }}">
     <div class="book-title">The Geometry of Uncertainty: The Geometry of Imprecise Probabilities</div>
     <div class="book-meta">Cuzzolin, 2021</div>
   </div>
