@@ -19,7 +19,7 @@ permalink: /2026-2027/
 
 ## Registration ##
 
-All students are encouraged to register via this [registration link](https://cispa-de.zoom-x.de/meeting/register/cze1ea63SvamYW9LfrfSGw) and join our Google Group, [ipml-course-ws-2026-2027](https://groups.google.com/g/ipml-course-ws-2026-2027), to receive course news, updates, and announcements. Click **Ask to join** to request access to the group. The Zoom link will be sent to you upon registration.
+All students are encouraged to register via this [registration link](https://cispa-de.zoom-x.de/meeting/register/cze1ea63SvamYW9LfrfSGw) to receive the Zoom link and join our Google Group, [ipml-course-ws-2026-2027](https://groups.google.com/g/ipml-course-ws-2026-2027), to receive course news, updates, and announcements. Click **Ask to join** to request access to the group.
 
 Students at Saarland University and the University of Hamburg **must officially enroll in the course at their respective universities to receive credits**. Students from other universities are welcome to participate through our public enrollment.
 
