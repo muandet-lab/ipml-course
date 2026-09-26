@@ -48,7 +48,10 @@ $on-laptop:        950px;
     }
 }
 
-
+.staff-list li {
+    clear: both;
+    display: flow-root;
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
