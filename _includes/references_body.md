@@ -3,6 +3,22 @@ We provide a non-exhaustive list of materials relevant to the course here. If yo
 
 ## Textbooks
 
+<div class="book-grid">
+
+  <div class="book">
+    <img src="{{ '/_images/SRIP-Walley.jpg' | relative_url }}">
+    <div class="book-title">Statistical Reasoning with Imprecise Probabilities</div>
+    <div class="book-meta">Peter Walley, 1990</div>
+  </div>
+
+  <div class="book">
+    <img src="{{ '/_images/IIP-Augustin.jpeg' | relative_url }}">
+    <div class="book-title">Introduction to Imprecise Probabilities</div>
+    <div class="book-meta">Augustin, Coolen, de Cooman & Troffaes, 2014</div>
+  </div>
+
+</div>
+
 {% include image.html url="/_images/SRIP-Walley.jpg" width="150" align="left" %}
 {% include image.html url="/_images/IIP-Augustin.jpeg" width="150" align="left" %}
 {% include image.html url="/_images/LP-Troffaes.jpg" width="150" align="left" %}
