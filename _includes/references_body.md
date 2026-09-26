@@ -63,7 +63,7 @@ We provide a non-exhaustive list of materials relevant to the course here. If yo
 
 ## Review Papers
 - [Possibilistic Inferential Models: A Review](https://arxiv.org/pdf/2507.09007) by Ryan Martin (2025)
-- [Possibility Theory and its Applications: Where Do we Stand ?](https://www.irit.fr/publis/ADRIA/papersDDUBOIS/possibility-Encyclo.pdf) by Didier Dubois and Henri Prade (2014)
+- [Possibility Theory and its Applications: Where Do We Stand ?](https://www.irit.fr/publis/ADRIA/papersDDUBOIS/possibility-Encyclo.pdf) by Didier Dubois and Henri Prade (2014)
 - [Decision-Making with Belief Functions: a Review](https://arxiv.org/pdf/1808.05322) by T. Denœux (2019)
 
 ## Research Papers
@@ -91,7 +91,6 @@ We provide a non-exhaustive list of materials relevant to the course here. If yo
 
 ### Conformal Prediction
 - [A Tutorial on Conformal Prediction](https://jmlr.csail.mit.edu/papers/volume9/shafer08a/shafer08a.pdf), JMLR, 2008
-- [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/abs/2107.07511), ArXiv, 2022
 - [Conformalized Credal Set Predictors](https://arxiv.org/pdf/2402.10723), NeurIPS, 2024
 - [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/pdf/2107.07511), ArXiv, 2022
 - [Conformal Prediction Regions are Imprecise Highest Density Regions](https://arxiv.org/pdf/2502.06331), ArXiv, 2025
@@ -128,7 +127,6 @@ We provide a non-exhaustive list of materials relevant to the course here. If yo
 - [Second-order Uncertainty Quantification: A Distance-based Approach](https://arxiv.org/abs/2312.00995), ICML, 2022
 
 ### Imprecise Probabilistic Forecast and Calibration
-- [IP Scoring Rules: Foundations and Applications](https://proceedings.mlr.press/v103/konek19a.html), ISIPTA, 2019
 - [Evaluating Imprecise Forecasts](https://proceedings.mlr.press/v215/konek23a/konek23a.pdf), ISIPTA, 2023
 - [IP Scoring Rules: Foundations and Applications](https://proceedings.mlr.press/v103/konek19a/konek19a.pdf), ISIPTA, 2019
 - [On Second-Order Scoring Rules for Epistemic Uncertainty Quantification](https://arxiv.org/pdf/2301.12736), ICML, 2023
@@ -176,7 +174,7 @@ The teaching materials for this course were partly inspired by those used in the
 - [SIPTA School](https://sipta.org/events/sipta-school/)
 - [The 1st Workshop on Epistemic Intelligence in Machine Learning (EIML)](https://sites.google.com/view/eiml-eurips2025/) at [EurIPS 2025](https://eurips.cc/)
 - [The 2nd Workshop on Epistemic Intelligence in Machine Learning (EIML): Learning under Unknown Unknowns for Real-world Impact](https://sites.google.com/view/eimlicml2026/home) at [ICML 2026](https://icml.cc/Conferences/2026)
-- [The 3rd Workshop on Epistemic Intelligence in Machine Learning (EIML): Building the Foundations]() (comming soon!)
+- [The 3rd Workshop on Epistemic Intelligence in Machine Learning (EIML): Building the Foundations]() (coming soon!)
 
 ## Communities
 - [The Society for Imprecise Probabilities: Theories and Applications (SIPTA)](https://sipta.org/)
