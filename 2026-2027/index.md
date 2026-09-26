@@ -11,7 +11,7 @@ permalink: /2026-2027/
 | **Lecture** | Friday, 10 a.m. – 12 p.m. |
 | | UdS (CISPA C0 - 0.02 Showroom), UHH (<span class="tba">TBA</span>), and Online ([Zoom](https://cispa-de.zoom-x.de/meeting/register/cze1ea63SvamYW9LfrfSGw)) |
 | **Exercise** | Friday, 12 p.m. – 2 p.m. | 
-| | UdS (CISPA C0 - 0.02 Showroom), UHH (<span class="tba">TBA</span>), and Online ([Zoom](https://cispa-de.zoom-x.de/meeting/register/cze1ea63SvamYW9LfrfSGw)) |
+| **Exercise** | UdS (CISPA C0 - 0.02 Showroom), UHH (<span class="tba">TBA</span>), and Online ([Zoom](https://cispa-de.zoom-x.de/meeting/register/cze1ea63SvamYW9LfrfSGw)) |
 | **Format** | Weekly lectures with biweekly in-class exercises and assignments |
 | **Discussion** | [Google Group](https://groups.google.com/g/ipml-course-ws-2026-2027) |
 | **Exam dates** | UdS (<span class="tba">TBA</span>) | 
@@ -20,7 +20,7 @@ permalink: /2026-2027/
 
 ## Announcements and Discussion
 
-Course announcements and updates will be posted to the Google group
+Course announcements and updates will be posted to the Google Group
 [ipml-course-ws-2026-2027](https://groups.google.com/g/ipml-course-ws-2026-2027),
 click **Ask to join** to request access. Students enrolled via public enrolment
 are also welcome to join.
