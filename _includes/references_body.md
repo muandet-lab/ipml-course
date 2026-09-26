@@ -12,30 +12,42 @@ We provide a non-exhaustive list of materials relevant to the course here. If yo
   </div>
 
   <div class="book">
+    <img src="{{ '/_images/PF-Shafer.jpg' | relative_url }}">
+    <div class="book-title">Probability and Finance: It's Only a Game!</div>
+    <div class="book-meta">Shafer & Vovk, 2005</div>
+  </div>
+
+  <div class="book">
     <img src="{{ '/_images/IIP-Augustin.jpeg' | relative_url }}">
     <div class="book-title">Introduction to Imprecise Probabilities</div>
     <div class="book-meta">Augustin, Coolen, de Cooman & Troffaes, 2014</div>
   </div>
 
+  <div class="book">
+    <img src="{{ '/_images/LP-Troffaes.jpg' | relative_url }}">
+    <div class="book-title">Lower Previsions</div>
+    <div class="book-meta">Troffaes & de Cooman, 2014</div>
+  </div>
+
+  <div class="book">
+    <img src="{{ '/_images/_images/IUQ-Sullivan.jpg' | relative_url }}">
+    <div class="book-title">Introduction to Uncertainty Quantification</div>
+    <div class="book-meta">Sullivan, 2015</div>
+  </div>
+
+  <div class="book">
+    <img src="{{ '/_images/_images/IM-Martin.jpg' | relative_url }}">
+    <div class="book-title">Inferential Models: Reasoning with Uncertainty</div>
+    <div class="book-meta">Martin & Liu, 2016</div>
+  </div>
+
+  <div class="book">
+    <img src="{{ '/_images/_images/GoU-Cuzzolin.jpg' | relative_url }}">
+    <div class="book-title">The Geometry of Uncertainty: The Geometry of Imprecise Probabilities</div>
+    <div class="book-meta">Cuzzolin, 2021</div>
+  </div>
+
 </div>
-
-{% include image.html url="/_images/SRIP-Walley.jpg" width="150" align="left" %}
-{% include image.html url="/_images/IIP-Augustin.jpeg" width="150" align="left" %}
-{% include image.html url="/_images/LP-Troffaes.jpg" width="150" align="left" %}
-{% include image.html url="/_images/IM-Martin.jpg" width="150" align="left" %}
-{% include image.html url="/_images/GoU-Cuzzolin.jpg" width="150" align="left" %}
-{% include image.html url="/_images/IUQ-Sullivan.jpg" width="150" align="left" %}
-{% include image.html url="/_images/PF-Shafer.jpg" width="150" align="left" %}
-
-<div style="clear: both;"></div>
-
-- Statistical Reasoning with Imprecise Probabilities (1990) by Peter Walley
-- Introduction to Imprecise Probabilities (2014) by Thomas Augustin, Frank P.A. Coolen, Gert de Cooman, and Matthias C. M. Troffaes
-- Lower Previsions (2014) by Matthias C. M. Troffaes and Gert de Cooman
-- Inferential Models: Reasoning with Uncertainty (2016) by Ryan Martin and Chuanhai Liu
-- The Geometry of Uncertainty: The Geometry of Imprecise Probabilities (2021) by Fabio Cuzzolin
-- Introduction to Uncertainty Quantification (2015) by T. J. Sullivan
-- Probability and Finance: It's Only a Game! (2005) by Glenn Shafer and Vladimir Vovk
 
 ## Articles
 
