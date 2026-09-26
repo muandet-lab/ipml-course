@@ -9,9 +9,8 @@ permalink: /2026-2027/
 | | |
 |---|---|
 | **Lecture** | Friday, 10 a.m. – 12 p.m. |
-| | UdS (CISPA C0 - 0.02 Showroom), UHH (<span class="tba">TBA</span>), and Online ([Zoom](https://cispa-de.zoom-x.de/meeting/register/cze1ea63SvamYW9LfrfSGw)) |
 | **Exercise** | Friday, 12 p.m. – 2 p.m. | 
-| **Exercise** | UdS (CISPA C0 - 0.02 Showroom), UHH (<span class="tba">TBA</span>), and Online ([Zoom](https://cispa-de.zoom-x.de/meeting/register/cze1ea63SvamYW9LfrfSGw)) |
+| **Location** | UdS (CISPA C0 - 0.02 Showroom), UHH (<span class="tba">TBA</span>), and Online ([Zoom](https://cispa-de.zoom-x.de/meeting/register/cze1ea63SvamYW9LfrfSGw)) |
 | **Format** | Weekly lectures with biweekly in-class exercises and assignments |
 | **Discussion** | [Google Group](https://groups.google.com/g/ipml-course-ws-2026-2027) |
 | **Exam dates** | UdS (<span class="tba">TBA</span>) | 
