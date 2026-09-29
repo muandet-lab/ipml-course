@@ -10,7 +10,7 @@ permalink: /2026-2027/
 |---|---|
 | **Lecture** | Friday, 10 a.m. – 12 p.m. |
 | **Exercise** | Friday, 12 p.m. – 2 p.m. | 
-| **Location** | UdS (CISPA C0 - 0.05 Lecture Hall), UHH (<span class="tba">TBA</span>), and Online |
+| **Location** | UdS (CISPA C0 - 0.05 Lecture Hall), UHH (Seminar Room 1.8, Haus der Informatik, Bundesstraße 56b), and Online |
 | **Format** | Weekly lectures with biweekly in-class exercises and assignments |
 | **Discussion** | [Google Group](https://groups.google.com/g/ipml-course-ws-2026-2027) |
 | **Exam dates** | UdS (<span class="tba">TBA</span>) | 
