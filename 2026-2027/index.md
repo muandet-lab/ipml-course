@@ -13,7 +13,7 @@ permalink: /2026-2027/
 | **Location** | UdS (CISPA C0 - 0.05 Lecture Hall), UHH (Seminar Room 1.8, Haus der Informatik, Bundesstraße 56b), and Online |
 | **Format** | Weekly lectures with biweekly in-class exercises and assignments |
 | **Discussion** | [Google Group](https://groups.google.com/g/ipml-course-ws-2026-2027) |
-| **Exam dates** | UdS (<span class="tba">TBA</span>) | 
+| **Exam dates** | UdS (Feb 26, 2027, 09:00-12:00, Geb. E1.3: HS001 & Mar 19, 2027, 09:00-12:00, Geb. E1.3: HS001) | 
 | | UHH (Feb 18, 2027, 12:00-15:00, Hörsaal 5 & Mar 23, 2027, 12:00-15:00, Hörsaal 5) |
 {: .logistics}
 
