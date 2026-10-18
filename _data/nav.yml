@@ -3,6 +3,7 @@
 # `offering_items` are shown only on pages that belong to a course offering.
 # Their URLs are relative to the offering root, so the same list works for
 # every year (e.g. `schedule/` -> /ipml-course/2026-2027/schedule/).
+# `only_offerings` restricts an entry to the listed offerings.
 offering_items:
   - url: ""
     name: Overview
@@ -20,9 +21,11 @@ offering_items:
     name: Exercises
     icon_class: fas fa-user-graduate
 
+  # Only offered in 2025-2026; there is no course project from 2026-2027 on.
   - url: "project/"
     name: Project
     icon_class: fas fa-lightbulb
+    only_offerings: ["2025-2026"]
 
   - url: "references/"
     name: References

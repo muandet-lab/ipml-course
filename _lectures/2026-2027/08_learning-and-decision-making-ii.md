@@ -4,6 +4,7 @@ offering: "2026-2027"
 sequence: 8
 date: 2026-12-04T10:00:00+01:00
 scheduled: true
+location: "Online"
 title: "Lecture 8: Learning and Decision Making II"
 tldr: "Classification and regression under imprecision: credal predictors and set-valued predictions, learning objectives and risk, calibration and evaluation of imprecise predictions, and selective prediction and abstention."
 ---

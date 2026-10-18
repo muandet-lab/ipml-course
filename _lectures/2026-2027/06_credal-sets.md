@@ -4,6 +4,7 @@ offering: "2026-2027"
 sequence: 6
 date: 2026-11-20T10:00:00+01:00
 scheduled: true
+location: "UdS: CISPA C0, 0.05 Lecture Hall"
 title: "Lecture 6: Credal Sets"
 tldr: "Convex sets of probability measures as a unifying framework: from Bayesianism to quasi- and infra-Bayesianism, representations of credal sets, their connections to other imprecise models, and learning and reasoning with them."
 ---

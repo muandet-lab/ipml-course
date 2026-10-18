@@ -12,6 +12,7 @@
     {% if page.offering %}
         {% capture offering_root %}/{{ page.offering }}/{% endcapture %}
         {% for item in site.data.nav.offering_items %}
+        {% if item.only_offerings %}{% unless item.only_offerings contains page.offering %}{% continue %}{% endunless %}{% endif %}
         <li>
             <a class="page-link" href="{{ item.url | prepend: offering_root | relative_url }}">
                 <i class="{{ item.icon_class }}"></i> {{ item.name }}

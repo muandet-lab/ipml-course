@@ -4,6 +4,7 @@ offering: "2026-2027"
 sequence: 9
 date: 2026-12-18T10:00:00+01:00
 scheduled: true
+location: "UdS: CISPA C0, 0.05 Lecture Hall"
 title: "Lecture 9: Uncertainty Quantification"
 tldr: "Why uncertainty quantification matters, how to distinguish and measure aleatoric and epistemic uncertainty, axiomatic characterisations of uncertainty measures, and evaluation and calibration of uncertainty estimates."
 ---

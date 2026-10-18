@@ -4,6 +4,7 @@ offering: "2026-2027"
 sequence: 5
 date: 2026-11-13T10:00:00+01:00
 scheduled: true
+location: "UHH: Seminar Room 1.8, HdI Bu. 56b"
 title: "Lecture 5: Belief Function Theory"
 tldr: "Belief function theory, which generalises both probability and possibility: belief and plausibility measures, Dempster's rule of combination, connections to imprecise probability, and applications in machine learning."
 ---

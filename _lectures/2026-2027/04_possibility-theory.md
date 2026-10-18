@@ -4,6 +4,7 @@ offering: "2026-2027"
 sequence: 4
 date: 2026-11-06T10:00:00+01:00
 scheduled: true
+location: "UdS: CISPA C0, 0.05 Lecture Hall"
 title: "Lecture 4: Possibility Theory"
 tldr: "Possibility theory as a close relative of probability: possibility distributions, possibility and necessity measures, their connection to imprecise probability, and applications in machine learning."
 ---

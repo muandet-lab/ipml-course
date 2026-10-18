@@ -44,7 +44,7 @@ exclude:
   - TEMPLATE-LICENSE
   - LICENSE
 
-dateformat: "%d %b %Y"
+dateformat: "%d.%m.%Y"
 
 future: true
 

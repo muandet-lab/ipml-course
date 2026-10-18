@@ -4,6 +4,7 @@ offering: "2026-2027"
 sequence: 2
 date: 2026-10-23T10:00:00+02:00
 scheduled: true
+location: "UHH: Seminar Room 1.8, HdI Bu. 56b"
 title: "Lecture 2: From Precise to Imprecise Probabilities"
 tldr: "What uncertainty is and how probability is used to model it: interpretations of probability, the limits of precise probability models, and an overview of imprecise probabilistic models."
 ---

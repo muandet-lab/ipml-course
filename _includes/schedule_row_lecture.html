@@ -1,7 +1,8 @@
 <div class="col col-1" data-label="Event">Lecture</div>
-<div class="col col-1-2" data-label="Date">
+<div class="col col-1-2" data-label="Date &amp; Location">
     {{ include.event.date | date: site.dateformat }}
     <br class="date-spliter"/>{{ include.event.date | date: "%A" }}
+    {% if include.event.location %}<div class="schedule-location">{{ include.event.location }}</div>{% endif %}
 </div>
 <div class="col col-2" data-label="Description">
     {{ include.event.title }}

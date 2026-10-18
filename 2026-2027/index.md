@@ -30,7 +30,6 @@ Students at Saarland University and the University of Hamburg **must officially 
 - [Schedule]({{ '/2026-2027/schedule/' | relative_url }}) — lecture and exercise dates
 - [Lectures]({{ '/2026-2027/lectures/' | relative_url }}) — planned topics; slides are posted as the semester progresses
 - [Exercises]({{ '/2026-2027/exercises/' | relative_url }}) — worksheets are released during the semester
-- [Project]({{ '/2026-2027/project/' | relative_url }}) — course project
 
 Reading material that is not specific to a single semester is collected on the
 [references]({{ '/2026-2027/references/' | relative_url }}) page. Slides from the

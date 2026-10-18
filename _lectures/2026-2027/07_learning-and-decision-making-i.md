@@ -4,6 +4,7 @@ offering: "2026-2027"
 sequence: 7
 date: 2026-11-27T10:00:00+01:00
 scheduled: true
+location: "UdS: CISPA C0, 0.05 Lecture Hall"
 title: "Lecture 7: Learning and Decision Making I"
 tldr: "Updating and decision making when probabilities are uncertain or incomplete: conditioning rules, decision criteria such as maximality, E-admissibility, Gamma-maximin and interval dominance, dynamic consistency, and robustness."
 ---
