@@ -10,8 +10,8 @@ permalink: /2026-2027/
 |---|---|
 | **Lecture** | Friday, 10 a.m. – 12 p.m. |
 | **Exercise** | Friday, 12 p.m. – 2 p.m. | 
-| **Location** | Saarland University (UdS) -- CISPA C0 - 0.05 Lecture Hall | 
-| | University of Hamburg (UHH) -- Seminar Room 1.8, Haus der Informatik, Bundesstraße 56b | 
+| **Location** | Saarland University (UdS) - CISPA C0 - 0.05 Lecture Hall | 
+| | University of Hamburg (UHH) - Seminar Room 1.8, Haus der Informatik, Bundesstraße 56b | 
 | | Online |
 | **Format** | Weekly lectures with biweekly in-class exercises and assignments |
 | **Discussion** | [Google Group](https://groups.google.com/g/ipml-course-ws-2026-2027) |
