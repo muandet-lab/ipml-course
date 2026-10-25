@@ -7,6 +7,9 @@ scheduled: true
 location: "UHH: Seminar Room 1.8, HdI Bu. 56b"
 title: "Lecture 2: From Precise to Imprecise Probabilities"
 tldr: "What uncertainty is and how probability is used to model it: interpretations of probability, the limits of precise probability models, and an overview of imprecise probabilistic models."
+links:
+    - url: /2026-2027/slides/lecture-02-overview-of-imprecise-probability.pdf
+      name: slides
 ---
 **Topics:**
 - Understanding uncertainty and probability
