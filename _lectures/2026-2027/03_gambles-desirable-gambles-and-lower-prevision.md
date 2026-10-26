@@ -15,4 +15,5 @@ tldr: "The behavioural foundations of imprecise probability: gambles, sets of de
 - Coherence and avoiding sure loss
 - Natural extension and coherent inference
 
-**Suggested readings:** TBA
+**Suggested readings:**
+- [A Gentle Approach to Imprecise Probability](https://gregorywheeler.org/papers/Teddy_70_wheeler.pdf)
