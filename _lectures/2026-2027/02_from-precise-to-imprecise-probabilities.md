@@ -10,6 +10,8 @@ tldr: "What uncertainty is and how probability is used to model it: interpretati
 links:
     - url: /2026-2027/slides/lecture-02-overview-of-imprecise-probability.pdf
       name: slides
+    - url: https://www.youtube.com/watch?v=RZkc_VtWiDE
+      name: video
 ---
 **Topics:**
 - Understanding uncertainty and probability

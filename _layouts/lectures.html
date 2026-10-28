@@ -6,11 +6,39 @@ layout: page
 
 {% assign lectures = site.lectures | where: "offering", page.offering | sort: "sequence" %}
 
+{% comment %}Once any lecture of the offering has a recording, every lecture
+gets a video column so the list stays aligned.{% endcomment %}
+{% assign offering_has_video = false %}
+{% for lecture in lectures %}
+{% assign video = lecture.links | where: "name", "video" | first %}
+{% if video %}{% assign offering_has_video = true %}{% endif %}
+{% endfor %}
+
 <ul id="archive">
 {% for lecture in lectures %}
 <li class="archiveposturl" style="background: transparent">
 <div class="lecture-container">
-    {% if lecture.thumbnail %}
+    {% assign video = lecture.links | where: "name", "video" | first %}
+    {% if video %}
+    {% if video.url contains 'v=' %}
+    {% assign video_id = video.url | split: 'v=' | last | split: '&' | first %}
+    {% else %}
+    {% assign video_id = video.url | split: '/' | last | split: '?' | first %}
+    {% endif %}
+    <div class="video-thumbnail">
+      <a href="{{ video.url }}" target="_blank" rel="noopener" title="Watch {{ lecture.title | escape }} on YouTube">
+        <img src="https://img.youtube.com/vi/{{ video_id }}/mqdefault.jpg" alt="Video recording of {{ lecture.title | escape }}" loading="lazy"/>
+        <span class="play-icon" aria-hidden="true"></span>
+      </a>
+    </div>
+    {% elsif offering_has_video %}
+    <div class="video-thumbnail">
+      <div class="video-placeholder">
+        <span class="play-icon" aria-hidden="true"></span>
+        <span class="tba">Recording: TBA</span>
+      </div>
+    </div>
+    {% elsif lecture.thumbnail %}
     <div class="thumbnail">
       <div class="center-cropped" style="margin-top:5px;margin-bottom:5px;background-image: url('{{ lecture.thumbnail | relative_url }}');">
         <img src="{{ lecture.thumbnail | relative_url }}" alt=""/>
@@ -23,7 +51,7 @@ layout: page
         {% if lecture.tldr %}<strong>tl;dr:</strong> {{ lecture.tldr }}<br/>{% endif %}
         {% if lecture.links %}
         <strong>
-        {% include lecture_links.html lecture=lecture %}
+        {% include lecture_links.html lecture=lecture skip_video=true %}
         </strong>
         {% else %}
         <em class="tba">Slides: TBA</em>

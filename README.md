@@ -67,6 +67,15 @@ links:
       name: slides
 ```
 
+**Publish a lecture recording.** Add a YouTube link to the same `links:` list
+with `name: video`. It appears next to the slides on the Schedule and Lectures
+pages, and the Lectures page also shows the video's thumbnail on the left:
+
+```yaml
+    - url: https://www.youtube.com/watch?v=zZ_w_TiQ6-Y
+      name: video
+```
+
 **Put a lecture on the schedule.** Add `date:` and `scheduled: true` to the
 lecture file. Items without `scheduled: true` are listed on the Lectures page
 but left off the Schedule — Jekyll gives every undated document the build time

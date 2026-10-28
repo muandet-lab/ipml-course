@@ -10,6 +10,8 @@ tldr: "The fundamentals of statistical machine learning, how uncertainty arises 
 links:
     - url: /2026-2027/slides/lecture-01-introduction.pdf
       name: slides
+    - url: https://www.youtube.com/watch?v=zZ_w_TiQ6-Y
+      name: video
 ---
 **Topics:**
 - Course overview, objectives, and logistics
