@@ -83,7 +83,9 @@ as its date, so the flag, not the date, decides.
 
 **Release an exercise sheet.** Add a file under `_assignments/<offering>/`
 following `_assignments/2025-2026/01_worksheet-part-i.md`, and put the PDF in
-`<offering>/exercises/`.
+`<offering>/exercises/`. To publish solutions later, put that PDF in the same
+folder and add a `solutions:` line to the exercise file, as in
+`_assignments/2026-2027/01_exercise-i.md`.
 
 **Post an announcement.** Add a dated file to `_announcements/` with
 `offering: "<offering>"` in its front matter.

@@ -15,6 +15,9 @@ layout: page
         <span><a href="{{ asg.url | relative_url }}">{{ asg.title }}</a></span>
 <strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
 {% if asg.pdf %}<a title="Download problems (pdf)" href="{{ asg.pdf | relative_url }}"><i class="fas fa-file-pdf"></i></a>{% endif %}
+{% if asg.solutions %}
+&nbsp; <a title="Download solutions (pdf)" href="{{ asg.solutions | relative_url }}"><i class="fas fa-check-circle"></i></a>
+{% endif %}
 {% if asg.attachment %}
 &nbsp; <a title="Download attachments (zip)" href="{{ asg.attachment | relative_url }}"><i class="fas fa-file-archive"></i></a>
 {% endif %}

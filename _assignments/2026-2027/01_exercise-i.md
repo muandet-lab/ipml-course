@@ -5,6 +5,7 @@ sequence: 1
 permalink: /2026-2027/exercises/exercise-i/
 title: 'Exercise I & Assignment I (Theory)'
 pdf: /2026-2027/exercises/IPML-Exercise-I.pdf
+solutions: /2026-2027/exercises/IPML-Exercise-I-solutions.pdf
 date: 2026-10-23T12:00:00+02:00
 scheduled: true
 hide_from_announcments: true
