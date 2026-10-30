@@ -10,6 +10,8 @@ tldr: "The behavioural foundations of imprecise probability: gambles, sets of de
 links:
   - url: /2026-2027/slides/lecture-03-gambles-and-lower-prevision.pdf
     name: slides
+  - url: https://youtu.be/p9N6OF-ZTXw
+    name: video
 ---
 **Topics:**
 - Gambles and their interpretation
