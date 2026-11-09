@@ -25,6 +25,9 @@ layout: default
       [<a href="{{ page.solutions | relative_url }}">solutions</a>]
       {% endif %}
     </p>
+    {% for link in page.links %}
+    <p style="font-weight: bold"><a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.name }}</a></p>
+    {% endfor %}
   </div>
 
   <br />

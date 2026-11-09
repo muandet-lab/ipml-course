@@ -8,4 +8,7 @@
 </div>
 <div class="col col-4" data-label="Course Material">
     [<a href="{{ include.event.url | prepend: site.baseurl}}">{{ include.event.title }}</a>]
+    {% for link in include.event.links %}
+    <br/><a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.name }}</a>
+    {% endfor %}
 </div>

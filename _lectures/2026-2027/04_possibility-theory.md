@@ -10,6 +10,8 @@ tldr: "Possibility theory as a close relative of probability: possibility distri
 links:
   - url: /2026-2027/slides/lecture-04-possibility-theory.pdf
     name: slides
+  - url: https://www.youtube.com/watch?v=5vb_yzefbJQ
+    name: video
 ---
 **Topics:**
 - Historical background and motivation
