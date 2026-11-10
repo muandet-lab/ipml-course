@@ -15,7 +15,7 @@ permalink: /2026-2027/
 | | Online |
 | **Format** | Weekly lectures with biweekly in-class exercises and assignments |
 | **Discussion** | [Google Group](https://groups.google.com/g/ipml-course-ws-2026-2027) |
-| **Exam dates** | UdS (Feb 26, 2027, 09:00-12:00, Geb. E1.3: HS001 & Mar 19, 2027, 09:00-12:00, Geb. E1.3: HS001) | 
+| **Exam dates** | UdS (Feb 24, 2027, 09:00-12:00, Geb. E1.3: HS001 & Mar 19, 2027, 09:00-12:00, Geb. E1.3: HS001) | 
 | | UHH (Feb 18, 2027, 12:00-15:00, Hörsaal 5 & Mar 23, 2027, 12:00-15:00, Hörsaal 5) |
 {: .logistics}
 
